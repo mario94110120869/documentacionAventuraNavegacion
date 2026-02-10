@@ -1,0 +1,162 @@
+backend:
+  name: github
+  repo: mario94110120869/documentacionAventuraNavegacion
+  branch: main
+  auth_type: pkce
+  app_id: Ov23li1eV4uyJ8haiJyr
+
+media_folder: "public/images"
+public_folder: "/images"
+
+locale: "es"
+
+collections:
+  - name: "guide"
+    label: "Guía del Panel"
+    folder: "guide"
+    create: false
+    extension: "md"
+    format: "frontmatter"
+    editor:
+      preview: false
+    fields:
+      - { label: "Título", name: "title", widget: "string", required: false }
+      - { label: "Contenido", name: "body", widget: "markdown" }
+    files:
+      - label: "1. Introducción"
+        name: "index"
+        file: "guide/index.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "2. Inicio de sesión y perfil"
+        name: "login"
+        file: "guide/login.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "3. Dashboard"
+        name: "dashboard"
+        file: "guide/dashboard.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "4. Gestión de aventuras"
+        name: "adventures"
+        file: "guide/adventures.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "5. Niveles"
+        name: "levels"
+        file: "guide/levels.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "6. Secciones"
+        name: "sections"
+        file: "guide/sections.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "7. Actividades y preguntas"
+        name: "activities"
+        file: "guide/activities.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "8. Banco de actividades"
+        name: "activity-bank"
+        file: "guide/activity-bank.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "9. Tesoros"
+        name: "treasures"
+        file: "guide/treasures.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "10. Trampas"
+        name: "traps"
+        file: "guide/traps.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "11. Sponsors"
+        name: "sponsors"
+        file: "guide/sponsors.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "12. Sellos de sponsor"
+        name: "sponsor-seals"
+        file: "guide/sponsor-seals.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "13. Premios (Awards)"
+        name: "awards"
+        file: "guide/awards.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "14. Rankings y finalización"
+        name: "rankings"
+        file: "guide/rankings.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "15. Códigos QR"
+        name: "qr-codes"
+        file: "guide/qr-codes.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "16. Plantillas visuales"
+        name: "templates"
+        file: "guide/templates.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "17. Generación con IA"
+        name: "ai-generation"
+        file: "guide/ai-generation.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "18. Gestión de administradores"
+        name: "admins"
+        file: "guide/admins.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "19. Restricciones y validaciones"
+        name: "restrictions"
+        file: "guide/restrictions.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "tutorials"
+    label: "Tutoriales"
+    files:
+      - label: "Índice de tutoriales"
+        name: "index"
+        file: "tutorials/index.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "Crear tu primera aventura"
+        name: "first-adventure"
+        file: "tutorials/first-adventure.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "Configurar sponsors y sellos"
+        name: "configure-sponsors"
+        file: "tutorials/configure-sponsors.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+      - label: "Finalizar ranking y premios"
+        name: "finalize-ranking"
+        file: "tutorials/finalize-ranking.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "reference"
+    label: "Referencia"
+    files:
+      - label: "Glosario"
+        name: "glossary"
+        file: "reference/glossary.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Páginas"
+    files:
+      - label: "Landing Page"
+        name: "index"
+        file: "index.md"
+        fields:
+          - { label: "Contenido", name: "body", widget: "markdown" }
