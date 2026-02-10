@@ -41,22 +41,22 @@ export default async function handler(req, res) {
     }
 
     const token = data.access_token;
-    const provider = 'github';
 
     res.setHeader('Content-Type', 'text/html');
     res.send(`<!doctype html><html><body><script>
       (function() {
+        var token = ${JSON.stringify(token)};
+        var provider = "github";
         function receiveMessage(e) {
-          console.log("receiveMessage", e);
           window.opener.postMessage(
-            "authorization:${provider}:success:${JSON.stringify({ token, provider })}",
+            "authorization:" + provider + ":success:" + JSON.stringify({token: token, provider: provider}),
             e.origin
           );
           window.removeEventListener("message", receiveMessage, false);
           window.close();
         }
         window.addEventListener("message", receiveMessage, false);
-        window.opener.postMessage("authorizing:${provider}", "*");
+        window.opener.postMessage("authorizing:" + provider, "*");
       })();
     </script></body></html>`);
   } catch (error) {
