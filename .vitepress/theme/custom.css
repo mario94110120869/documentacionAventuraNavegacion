@@ -1,0 +1,239 @@
+/**
+ * Tema personalizado — Quest Admin Docs
+ * Paleta basada en el panel de administración de Aventura en Navegación
+ * Purple / Cyan / Gold sobre fondo oscuro
+ */
+
+/* ===== FUENTES ===== */
+:root {
+  --vp-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --vp-font-family-mono: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* ===== COLORES BRAND — PURPLE ===== */
+:root {
+  --vp-c-brand-1: hsl(262 83% 58%);
+  --vp-c-brand-2: hsl(262 83% 50%);
+  --vp-c-brand-3: hsl(262 83% 66%);
+  --vp-c-brand-soft: hsl(262 83% 58% / 0.14);
+}
+
+/* ===== DARK MODE (default) ===== */
+.dark {
+  --vp-c-bg: hsl(222 47% 6%);
+  --vp-c-bg-alt: hsl(222 47% 9%);
+  --vp-c-bg-elv: hsl(222 47% 11%);
+  --vp-c-bg-soft: hsl(222 47% 9%);
+
+  --vp-c-text-1: hsl(210 40% 98%);
+  --vp-c-text-2: hsl(215 20% 75%);
+  --vp-c-text-3: hsl(215 20% 55%);
+
+  --vp-c-divider: hsl(217 33% 18%);
+  --vp-c-gutter: hsl(217 33% 12%);
+
+  --vp-c-default-1: hsl(217 33% 20%);
+  --vp-c-default-2: hsl(217 33% 24%);
+  --vp-c-default-3: hsl(217 33% 28%);
+  --vp-c-default-soft: hsl(217 33% 17% / 0.6);
+
+  /* Sidebar */
+  --vp-sidebar-bg-color: hsl(222 47% 8%);
+
+  /* Nav */
+  --vp-nav-bg-color: hsl(222 47% 7% / 0.95);
+
+  /* Custom tokens */
+  --quest-purple: hsl(262 83% 58%);
+  --quest-purple-dark: hsl(262 83% 48%);
+  --quest-purple-light: hsl(262 83% 68%);
+  --quest-cyan: hsl(186 94% 42%);
+  --quest-cyan-light: hsl(186 94% 55%);
+  --quest-gold: hsl(45 93% 47%);
+  --quest-gold-light: hsl(48 96% 60%);
+  --quest-success: hsl(142 71% 45%);
+  --quest-danger: hsl(0 84% 60%);
+  --quest-warning: hsl(38 92% 50%);
+}
+
+/* ===== LIGHT MODE ===== */
+:root:not(.dark) {
+  --quest-purple: hsl(262 83% 58%);
+  --quest-purple-dark: hsl(262 83% 45%);
+  --quest-purple-light: hsl(262 83% 72%);
+  --quest-cyan: hsl(186 94% 38%);
+  --quest-cyan-light: hsl(186 94% 48%);
+  --quest-gold: hsl(45 93% 42%);
+  --quest-gold-light: hsl(48 96% 55%);
+  --quest-success: hsl(142 71% 40%);
+  --quest-danger: hsl(0 84% 55%);
+  --quest-warning: hsl(38 92% 45%);
+}
+
+/* ===== TIP/INFO — CYAN ===== */
+:root {
+  --vp-custom-block-tip-border: var(--quest-cyan);
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: hsl(186 94% 42% / 0.08);
+  --vp-custom-block-tip-code-bg: hsl(186 94% 42% / 0.12);
+}
+
+/* ===== WARNING — GOLD ===== */
+:root {
+  --vp-custom-block-warning-border: var(--quest-gold);
+  --vp-custom-block-warning-text: var(--vp-c-text-1);
+  --vp-custom-block-warning-bg: hsl(45 93% 47% / 0.08);
+  --vp-custom-block-warning-code-bg: hsl(45 93% 47% / 0.12);
+}
+
+/* ===== DANGER — RED ===== */
+:root {
+  --vp-custom-block-danger-border: var(--quest-danger);
+  --vp-custom-block-danger-text: var(--vp-c-text-1);
+  --vp-custom-block-danger-bg: hsl(0 84% 60% / 0.08);
+  --vp-custom-block-danger-code-bg: hsl(0 84% 60% / 0.12);
+}
+
+/* ===== INFO — PURPLE ===== */
+:root {
+  --vp-custom-block-info-border: var(--quest-purple);
+  --vp-custom-block-info-text: var(--vp-c-text-1);
+  --vp-custom-block-info-bg: hsl(262 83% 58% / 0.08);
+  --vp-custom-block-info-code-bg: hsl(262 83% 58% / 0.12);
+}
+
+/* ===== HERO ===== */
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, hsl(262 83% 58%) 0%, hsl(186 94% 42%) 100%);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, hsl(262 83% 58% / 0.3) 0%, hsl(186 94% 42% / 0.3) 100%);
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+/* ===== HEADINGS CON FONT DISPLAY ===== */
+.vp-doc h1,
+.vp-doc h2 {
+  font-family: 'Outfit', system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.vp-doc h1 {
+  background: linear-gradient(135deg, var(--quest-purple) 0%, var(--quest-cyan) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ===== BADGES PERSONALIZADOS ===== */
+.badge-super-admin {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  background: hsl(262 83% 58% / 0.15);
+  color: var(--quest-purple-light);
+  border: 1px solid hsl(262 83% 58% / 0.3);
+}
+
+.badge-editor {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  background: hsl(186 94% 42% / 0.15);
+  color: var(--quest-cyan-light);
+  border: 1px solid hsl(186 94% 42% / 0.3);
+}
+
+/* ===== TABLAS MEJORADAS ===== */
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.dark .vp-doc th {
+  background: hsl(262 83% 58% / 0.12);
+  border-bottom-color: hsl(262 83% 58% / 0.3);
+  font-weight: 600;
+}
+
+.dark .vp-doc tr:nth-child(even) td {
+  background: hsl(222 47% 9% / 0.5);
+}
+
+/* ===== STEPS NUMERADOS ===== */
+.steps-container ol {
+  counter-reset: step-counter;
+  list-style: none;
+  padding-left: 0;
+}
+
+.steps-container ol li {
+  counter-increment: step-counter;
+  display: flex;
+  gap: 12px;
+  margin-bottom: 16px;
+  align-items: flex-start;
+}
+
+.steps-container ol li::before {
+  content: counter(step-counter);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--quest-purple);
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+
+/* ===== GLOW EFFECTS EN SIDEBAR ACTIVO ===== */
+.VPSidebarItem.is-active > .item > .indicator {
+  background: var(--quest-purple);
+  box-shadow: 0 0 12px hsl(262 83% 58% / 0.4);
+}
+
+/* ===== SCROLL SUAVE ===== */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ===== FEATURE CARDS EN HOME ===== */
+.dark .VPFeature {
+  border-color: hsl(217 33% 18%);
+  background: hsl(222 47% 9%);
+}
+
+.dark .VPFeature:hover {
+  border-color: hsl(262 83% 58% / 0.4);
+  box-shadow: 0 0 20px hsl(262 83% 58% / 0.1);
+}
+
+/* ===== PRINT / PDF ===== */
+@media print {
+  .VPNav,
+  .VPSidebar,
+  .VPDocFooter,
+  .VPFooter {
+    display: none !important;
+  }
+
+  .VPDoc {
+    padding: 0 !important;
+  }
+
+  .vp-doc h1 {
+    -webkit-text-fill-color: var(--quest-purple);
+    color: var(--quest-purple);
+  }
+}

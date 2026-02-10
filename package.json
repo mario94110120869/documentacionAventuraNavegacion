@@ -1,0 +1,19 @@
+{
+  "name": "manual-usuario-admin",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Manual de Usuario Interactivo — Panel de Administración — Aventura en Navegación",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "docs:export-pdf": "press-export-pdf export . -c .vitepress/export-pdf.config.ts && node -e \"require('fs').copyFileSync('manual-usuario-admin.pdf','public/manual-usuario-admin.pdf')\" && echo PDF copiado a public/"
+  },
+  "keywords": [],
+  "author": "LYN Soluciones",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vitepress-export-pdf": "^1.0.0"
+  }
+}
