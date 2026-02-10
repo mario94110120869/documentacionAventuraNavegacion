@@ -13,15 +13,8 @@ locale: "es"
 collections:
   - name: "guide"
     label: "Guía del Panel"
-    folder: "guide"
-    create: false
-    extension: "md"
-    format: "frontmatter"
     editor:
       preview: false
-    fields:
-      - { label: "Título", name: "title", widget: "string", required: false }
-      - { label: "Contenido", name: "body", widget: "markdown" }
     files:
       - label: "1. Introducción"
         name: "index"
