@@ -1,7 +1,6 @@
 ---
 title: Gestión de aventuras
 ---
-
 # Gestión de aventuras
 
 Las aventuras son la unidad principal del juego. Desde esta sección puedes crear, editar, visualizar, resetear y eliminar aventuras completas.
@@ -10,35 +9,37 @@ Las aventuras son la unidad principal del juego. Desde esta sección puedes crea
 
 Al acceder a la sección **Aventuras** del menú lateral, se muestra el listado de todas las aventuras registradas en el sistema.
 
+![](/images/listadoaventuras.png)
+
 <ImagePlaceholder label="Listado de aventuras en el panel de administración" />
 
 ### Columnas del listado
 
-| Columna | Descripción |
-|---|---|
-| **Imagen** | Miniatura de la imagen del mapa de la aventura. |
-| **Nombre** | Nombre de la aventura. |
-| **Descripción** | Descripción breve de la aventura. |
-| **Niveles** | Número de niveles que contiene la aventura. |
-| **Estado** | Estado actual de la aventura (activa, inactiva). |
-| **Acciones** | Botones de acción disponibles para cada aventura. |
+| Columna         | Descripción                                       |
+| --------------- | ------------------------------------------------- |
+| **Imagen**      | Miniatura de la imagen del mapa de la aventura.   |
+| **Nombre**      | Nombre de la aventura.                            |
+| **Descripción** | Descripción breve de la aventura.                 |
+| **Niveles**     | Número de niveles que contiene la aventura.       |
+| **Estado**      | Estado actual de la aventura (activa, inactiva).  |
+| **Acciones**    | Botones de acción disponibles para cada aventura. |
 
 ### Funciones del listado
 
-- **Buscar**: Utiliza el campo de búsqueda para filtrar aventuras por nombre.
-- **Ordenar**: Haz clic en los encabezados de columna para ordenar el listado.
-- **Paginación**: Navega entre páginas si hay muchas aventuras registradas.
+* **Buscar**: Utiliza el campo de búsqueda para filtrar aventuras por nombre.
+* **Ordenar**: Haz clic en los encabezados de columna para ordenar el listado.
+* **Paginación**: Navega entre páginas si hay muchas aventuras registradas.
 
 ### Acciones por aventura
 
 Cada aventura en el listado dispone de las siguientes acciones:
 
-| Acción | Descripción |
-|---|---|
-| **Ver detalle** | Accede a la vista de detalle de la aventura con su mapa interactivo. |
-| **Editar** | Abre el formulario de edición de la aventura. |
-| **Resetear** | Restablece las estadísticas y progreso de la aventura. |
-| **Eliminar** | Elimina la aventura de forma permanente (solo <RoleTag role="super-admin" />). |
+| Acción          | Descripción                                                                    |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Ver detalle** | Accede a la vista de detalle de la aventura con su mapa interactivo.           |
+| **Editar**      | Abre el formulario de edición de la aventura.                                  |
+| **Resetear**    | Restablece las estadísticas y progreso de la aventura.                         |
+| **Eliminar**    | Elimina la aventura de forma permanente (solo <RoleTag role="super-admin" />). |
 
 ## 4.2 Crear una aventura
 
@@ -48,12 +49,12 @@ Para crear una nueva aventura, haz clic en el botón **Crear aventura** ubicado 
 
 ### Campos del formulario
 
-| Campo | Tipo | Descripción | Obligatorio |
-|---|---|---|---|
-| **Nombre** | Texto | Nombre de la aventura. | Sí |
-| **Descripción** | Texto largo | Descripción de la aventura que verán los jugadores. | Sí |
-| **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa interactivo de la aventura. | No |
-| **Estado** | Selector | Estado de la aventura: activa o inactiva. | Sí |
+| Campo               | Tipo              | Descripción                                                         | Obligatorio |
+| ------------------- | ----------------- | ------------------------------------------------------------------- | ----------- |
+| **Nombre**          | Texto             | Nombre de la aventura.                                              | Sí          |
+| **Descripción**     | Texto largo       | Descripción de la aventura que verán los jugadores.                 | Sí          |
+| **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa interactivo de la aventura. | No          |
+| **Estado**          | Selector          | Estado de la aventura: activa o inactiva.                           | Sí          |
 
 ### Pasos para crear una aventura
 
@@ -140,9 +141,9 @@ La vista de detalle muestra toda la información de una aventura junto con su ma
 
 El mapa interactivo muestra la estructura visual de la aventura:
 
-- Los **niveles** se representan como áreas o regiones en el mapa.
-- Las **secciones** se muestran como puntos posicionados dentro de cada nivel.
-- Al hacer clic en una sección se puede acceder a su detalle.
+* Los **niveles** se representan como áreas o regiones en el mapa.
+* Las **secciones** se muestran como puntos posicionados dentro de cada nivel.
+* Al hacer clic en una sección se puede acceder a su detalle.
 
 ::: info
 El mapa interactivo es una representación visual de la estructura del juego. La posición de los elementos en el mapa se configura desde el editor de mapa y el editor de posiciones.
@@ -152,10 +153,10 @@ El mapa interactivo es una representación visual de la estructura del juego. La
 
 La vista de detalle muestra:
 
-- **Nombre** y **descripción** de la aventura.
-- **Estado** actual (activa/inactiva).
-- **Número de niveles**, secciones y actividades.
-- **Fecha de creación** y última modificación.
+* **Nombre** y **descripción** de la aventura.
+* **Estado** actual (activa/inactiva).
+* **Número de niveles**, secciones y actividades.
+* **Fecha de creación** y última modificación.
 
 ### Banner de advertencia
 
@@ -177,17 +178,17 @@ La función de reseteo permite restablecer las estadísticas y el progreso de lo
 
 ### Estadísticas que se resetean
 
-| Estadística | Descripción |
-|---|---|
-| **Progreso de jugadores** | El avance de todos los jugadores en la aventura se restablece a cero. |
-| **Sellos obtenidos** | Los sellos ganados por los jugadores en esta aventura se eliminan. |
-| **Posiciones del ranking** | Las posiciones en el ranking de esta aventura se eliminan. |
-| **Respuestas registradas** | Las respuestas de los jugadores a las preguntas se eliminan. |
+| Estadística                | Descripción                                                           |
+| -------------------------- | --------------------------------------------------------------------- |
+| **Progreso de jugadores**  | El avance de todos los jugadores en la aventura se restablece a cero. |
+| **Sellos obtenidos**       | Los sellos ganados por los jugadores en esta aventura se eliminan.    |
+| **Posiciones del ranking** | Las posiciones en el ranking de esta aventura se eliminan.            |
+| **Respuestas registradas** | Las respuestas de los jugadores a las preguntas se eliminan.          |
 
 ### Opciones de reseteo
 
-- **Resetear todo**: Restablece todas las estadísticas de la aventura.
-- **Resetear progreso**: Restablece únicamente el progreso de los jugadores sin afectar el ranking.
+* **Resetear todo**: Restablece todas las estadísticas de la aventura.
+* **Resetear progreso**: Restablece únicamente el progreso de los jugadores sin afectar el ranking.
 
 ### Pasos para resetear
 
@@ -219,12 +220,12 @@ El editor de mapa permite configurar la imagen de fondo y la disposición visual
 
 ### Controles de zoom
 
-| Control | Descripción |
-|---|---|
-| **Zoom +** | Acerca la vista del mapa. |
-| **Zoom -** | Aleja la vista del mapa. |
+| Control              | Descripción                                   |
+| -------------------- | --------------------------------------------- |
+| **Zoom +**           | Acerca la vista del mapa.                     |
+| **Zoom -**           | Aleja la vista del mapa.                      |
 | **Restablecer zoom** | Devuelve el mapa a su nivel de zoom original. |
-| **Rueda del ratón** | Permite hacer zoom con la rueda del ratón. |
+| **Rueda del ratón**  | Permite hacer zoom con la rueda del ratón.    |
 
 <ImagePlaceholder label="Controles de zoom del editor de mapa" />
 
