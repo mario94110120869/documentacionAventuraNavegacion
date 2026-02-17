@@ -77,8 +77,6 @@ La generación con IA tiene en cuenta el nombre y la descripción de la aventura
 
 Para editar un nivel existente, haz clic en el botón **Editar** en el listado de niveles.
 
-
-
 ![](/images/editarnivel.png)
 
 El formulario de edición contiene los mismos campos que el de creación, con los valores actuales del nivel precargados.
@@ -91,7 +89,9 @@ Desde la edición del nivel puedes gestionar la imagen del mapa:
 * **Generar imagen con IA**: Haz clic en **Generar imagen con IA** para crear una imagen basada en el nombre y descripción del nivel.
 * **Eliminar imagen**: Haz clic en **Eliminar imagen** para quitar la imagen de mapa del nivel.
 
-<ImagePlaceholder label="Gestión de imagen de mapa del nivel" />
+
+
+![](/images/imagendelmapaeditar.png)
 
 ### Asignación de sponsor
 
