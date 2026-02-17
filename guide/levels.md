@@ -13,16 +13,16 @@ Al acceder a la sección **Niveles**, se muestra el listado de todos los niveles
 
 ### Columnas del listado
 
-| Columna         | Descripción                                      |
-| --------------- | ------------------------------------------------ |
-| **Imagen**      | Miniatura de la imagen del mapa del nivel.       |
+| Columna                 | Descripción                                      |
+| ----------------------- | ------------------------------------------------ |
+| **Imagen**              | Miniatura de la imagen del mapa del nivel.       |
 | **Nombre(titulo)**      | Nombre del nivel.                                |
-| **Descripción** | Descripción breve del nivel.                     |
-| **Secciones**   | Número de secciones que contiene el nivel.       |
-| **Sponsor**     | Nombre del sponsor asociado al nivel (si tiene). |
-| **Fecha de activación**     | Fecha de activación del nivel (opcional). |
-| **Orden**       | Posición del nivel dentro de la aventura.        |
-| **Acciones**    | Botones de acción disponibles para cada nivel.   |
+| **Descripción**         | Descripción breve del nivel.                     |
+| **Secciones**           | Número de secciones que contiene el nivel.       |
+| **Sponsor**             | Nombre del sponsor asociado al nivel (si tiene). |
+| **Fecha de activación** | Fecha de activación del nivel (opcional).        |
+| **Orden**               | Posición del nivel dentro de la aventura.        |
+| **Acciones**            | Botones de acción disponibles para cada nivel.   |
 
 ::: info
 El listado de niveles muestra únicamente los niveles de la aventura actualmente seleccionada. Para ver niveles de otra aventura, selecciónala primero desde el listado de aventuras.
@@ -32,7 +32,7 @@ El listado de niveles muestra únicamente los niveles de la aventura actualmente
 
 Para crear un nuevo nivel, haz clic en el botón **Crear nivel** ubicado en la parte superior del listado.
 
-<ImagePlaceholder label="Formulario de creación de nivel" />
+![](/images/crearnivel.png)
 
 ### Campos del formulario
 
