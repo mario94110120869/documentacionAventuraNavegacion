@@ -38,15 +38,15 @@ Para crear un nuevo nivel, haz clic en el botón **Crear nivel** ubicado en la p
 
 ### Campos del formulario
 
-| Campo               | Tipo              | Descripción                                        | Obligatorio |
-| ------------------- | ----------------- | -------------------------------------------------- | ----------- |
-| **Nombre(titulo)**          | Texto             | Nombre del nivel.                                  | Sí          |
-| **Descripción**     | Texto largo       | Descripción del nivel que verán los jugadores.     | Sí          |
-| **Aventura**        | Selector          | Aventura a la que pertenece el nivel.              | Sí          |
-| **Orden**           | Numérico          | Este se crea secuencialmente.          | Sí          |
-| **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa del nivel. | No          |
-| **Sponsor**         | Selector          | Sponsor asociado al nivel.                         | No          |
-| **Fecha de Activación**         | Fecha| Fecha de activacion del nivel para estar disponible en el juego.                         | No          |
+| Campo                   | Tipo              | Descripción                                                      | Obligatorio |
+| ----------------------- | ----------------- | ---------------------------------------------------------------- | ----------- |
+| **Nombre(titulo)**      | Texto             | Nombre del nivel.                                                | Sí          |
+| **Descripción**         | Texto largo       | Descripción del nivel que verán los jugadores.                   | Sí          |
+| **Aventura**            | Selector          | Aventura a la que pertenece el nivel.                            | Sí          |
+| **Orden**               | Numérico          | Este se crea secuencialmente.                                    | Sí          |
+| **Imagen del mapa**     | Archivo de imagen | Imagen que se usará como fondo del mapa del nivel.               | No          |
+| **Sponsor**             | Selector          | Sponsor asociado al nivel.                                       | No          |
+| **Fecha de Activación** | Fecha             | Fecha de activacion del nivel para estar disponible en el juego. | No          |
 
 ### Pasos para crear un nivel
 
@@ -65,7 +65,9 @@ El formulario de creación incluye la opción de **generar contenido con IA**. E
 3. Revisa el contenido generado y ajústalo si es necesario.
 4. Completa los demás campos y haz clic en **Guardar**.
 
-<ImagePlaceholder label="Generación de nivel con IA" />
+![](/images/generarnivelesconia.png)
+
+![](/images/modalgenerarnivelconia.png)
 
 ::: tip
 La generación con IA tiene en cuenta el nombre y la descripción de la aventura para generar contenido coherente con la temática.
