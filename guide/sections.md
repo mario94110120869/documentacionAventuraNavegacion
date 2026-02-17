@@ -9,17 +9,13 @@ Las secciones son subdivisiones de un nivel. Cada sección agrupa actividades y 
 
 Al acceder a la sección **Secciones**, se muestra el listado de todas las secciones del nivel seleccionado.
 
-
-
 ![](/images/seccionennivel.png)
 
 ### Vista previa del mapa
 
 En la parte superior del listado se muestra una vista previa del mapa del nivel con la ubicación de las secciones representadas como puntos. Esta vista permite identificar rápidamente la distribución espacial de las secciones.
 
-
-
-![](/images/vistapreviaseccion.png)
+![](/images/vistapreviamejorada.png)
 
 ### Columnas del listado
 
