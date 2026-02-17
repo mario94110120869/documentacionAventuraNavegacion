@@ -174,15 +174,10 @@ La vista de detalle muestra:
 * **Nombre** y **descripción** de la aventura.
 * **Estado** actual (activa/inactiva).
 * **Número de niveles**, secciones y actividades.
+* **Número de tesoro**, secciones y actividades.
+* **Número de trampas**, secciones y actividades.
 * **Fecha de creación** y última modificación.
 
-### Banner de advertencia
-
-Si la aventura tiene elementos incompletos o problemas de configuración, se muestra un banner de advertencia en la parte superior de la vista de detalle.
-
-::: warning
-El banner de advertencia aparece cuando hay niveles sin secciones, secciones sin actividades, o actividades sin preguntas configuradas. Revisa y completa estos elementos antes de activar la aventura.
-:::
 
 ## 4.5 Resetear una aventura
 
