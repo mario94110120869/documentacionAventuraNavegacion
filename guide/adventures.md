@@ -16,7 +16,7 @@ Al acceder a la sección **Aventuras** del menú lateral, se muestra el listado 
 | Columna         | Descripción                                       |
 | --------------- | ------------------------------------------------- |
 | **Imagen**      | Miniatura de la imagen del mapa de la aventura.   |
-| **Nombre**      | Nombre de la aventura.                            |
+| **Nombre y descripcion**      | Nombre de la aventura.                            |
 | **Descripción** | Descripción breve de la aventura.                 |
 | **Niveles**     | Número de niveles que contiene la aventura.       |
 | **Estado**      | Estado actual de la aventura (activa, inactiva).  |
