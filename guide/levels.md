@@ -107,8 +107,6 @@ Los sponsors disponibles en el selector son los que han sido creados previamente
 
 El editor de posiciones permite ubicar las secciones del nivel en el mapa interactivo.
 
-
-
 ![](/images/mapanivelesposicionseccion.png)
 
 ![](/images/mapanivelesposicionseccionenniveles.png)
@@ -129,7 +127,11 @@ Las posiciones de las secciones en el mapa determinan dónde verán los jugadore
 
 Para eliminar un nivel, haz clic en el botón **Eliminar** en el listado de niveles y confirma la acción en el diálogo de confirmación.
 
-<ImagePlaceholder label="Diálogo de confirmación de eliminación de nivel" />
+
+
+![](/images/eliminarnivel.png)
+
+![](/images/dialogoeliminarnivel.png)
 
 ::: warning
 **Eliminación en cascada.** Al eliminar un nivel se eliminan automáticamente todas sus secciones, actividades y preguntas asociadas. Asegúrate de que deseas eliminar todo el contenido del nivel antes de confirmar.
