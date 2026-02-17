@@ -220,6 +220,8 @@ Asegúrate de que realmente deseas resetear la aventura. Una vez confirmada la a
 
 El editor de mapa permite configurar la imagen de fondo y la disposición visual de los elementos en el mapa de la aventura.
 
+![](/images/mapaedicionposicion.png)
+
 <ImagePlaceholder label="Editor de mapa de la aventura" />
 
 ### Pasos para usar el editor de mapa
@@ -239,7 +241,11 @@ El editor de mapa permite configurar la imagen de fondo y la disposición visual
 | **Restablecer zoom** | Devuelve el mapa a su nivel de zoom original. |
 | **Rueda del ratón**  | Permite hacer zoom con la rueda del ratón.    |
 
-<ImagePlaceholder label="Controles de zoom del editor de mapa" />
+
+
+![](/images/mapadeposiciondentro.png)
+
+
 
 ::: tip
 Utiliza la combinación de zoom y desplazamiento para navegar por mapas grandes y posicionar los elementos con precisión.
