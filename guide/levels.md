@@ -20,7 +20,7 @@ Al acceder a la sección **Niveles**, se muestra el listado de todos los niveles
 | **Descripción** | Descripción breve del nivel.                     |
 | **Secciones**   | Número de secciones que contiene el nivel.       |
 | **Sponsor**     | Nombre del sponsor asociado al nivel (si tiene). |
-| **Fecha de activación	**     | Fecha de activación del nivel (opcional). |
+| **Fecha de activación**     | Fecha de activación del nivel (opcional). |
 | **Orden**       | Posición del nivel dentro de la aventura.        |
 | **Acciones**    | Botones de acción disponibles para cada nivel.   |
 
