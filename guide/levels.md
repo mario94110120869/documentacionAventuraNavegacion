@@ -34,6 +34,8 @@ Para crear un nuevo nivel, haz clic en el botón **Crear nivel** ubicado en la p
 
 ![](/images/crearnivel.png)
 
+![](/images/formulariocrearnivel.png)
+
 ### Campos del formulario
 
 | Campo               | Tipo              | Descripción                                        | Obligatorio |
