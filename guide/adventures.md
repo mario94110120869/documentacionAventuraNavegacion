@@ -96,8 +96,6 @@ La generación completa con IA permite crear una aventura con toda su estructura
 
 ![](/images/generacionaventuraconiaavanzado.png)
 
-
-
 ![](/images/modalcreacionaventuraavanzado.png)
 
 ::: warning
@@ -108,7 +106,9 @@ La generación completa con IA puede tardar varios segundos dependiendo de la ca
 
 Para editar una aventura existente, haz clic en el botón **Editar** en el listado de aventuras o desde la vista de detalle.
 
-<ImagePlaceholder label="Formulario de edición de aventura" />
+![](/images/editaraventura.png)
+
+![](/images/formularioedicionaventura.png)
 
 El formulario de edición contiene los mismos campos que el de creación, con los valores actuales de la aventura precargados.
 
