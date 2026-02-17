@@ -36,7 +36,11 @@ El listado de secciones muestra únicamente las secciones del nivel actualmente 
 
 Para crear una nueva sección, haz clic en el botón **Crear sección** ubicado en la parte superior del listado.
 
-<ImagePlaceholder label="Formulario de creación de sección" />
+
+
+![](/images/crearseccion.png)
+
+![](/images/formulariocrearseccion.png)
 
 ### Campos del formulario
 
