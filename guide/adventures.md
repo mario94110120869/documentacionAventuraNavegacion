@@ -15,14 +15,14 @@ Al acceder a la sección **Aventuras** del menú lateral, se muestra el listado 
 
 ### Columnas del listado
 
-| Columna                  | Descripción                                       |
-| ------------------------ | ------------------------------------------------- |
-| **Imagen**               | Miniatura de la imagen del mapa de la aventura.   |
-| **Nombre y descripción** | Nombre de la aventura y descripción.              |
-| **Descripción**          | Descripción breve de la aventura.                 |
-| **Niveles**              | Número de niveles que contiene la aventura.       |
-| **Estado**               | Estado actual de la aventura (activa, inactiva).  |
-| **Acciones**             | Botones de acción disponibles para cada aventura. |
+| Columna                  | Descripción                                               |
+| ------------------------ | --------------------------------------------------------- |
+| **Imagen**               | Miniatura de la imagen del mapa de la aventura.           |
+| **Nombre y descripción** | Nombre de la aventura y descripción.                      |
+| **Estado**               | Estado actual de la aventura (activa, inactiva)           |
+| **Fecha**                | Fecha de la aventura.                                     |
+| **Entidades**            | Niveles, tesoros y trampas disponible para cada aventura. |
+| **Acciones**             | Botones de acción disponibles para cada aventura.         |
 
 ### Funciones del listado
 
