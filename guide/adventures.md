@@ -11,8 +11,6 @@ Al acceder a la sección **Aventuras** del menú lateral, se muestra el listado 
 
 ![](/images/listadodeaventuras.png)
 
-<ImagePlaceholder label="Listado de aventuras en el panel de administración" />
-
 ### Columnas del listado
 
 | Columna         | Descripción                                       |
