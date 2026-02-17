@@ -89,8 +89,6 @@ Desde la edición del nivel puedes gestionar la imagen del mapa:
 * **Generar imagen con IA**: Haz clic en **Generar imagen con IA** para crear una imagen basada en el nombre y descripción del nivel.
 * **Eliminar imagen**: Haz clic en **Eliminar imagen** para quitar la imagen de mapa del nivel.
 
-
-
 ![](/images/imagendelmapaeditar.png)
 
 ### Asignación de sponsor
@@ -109,7 +107,11 @@ Los sponsors disponibles en el selector son los que han sido creados previamente
 
 El editor de posiciones permite ubicar las secciones del nivel en el mapa interactivo.
 
-<ImagePlaceholder label="Editor de posiciones de secciones en el mapa del nivel" />
+
+
+![](/images/mapanivelesposicionseccion.png)
+
+![](/images/mapanivelesposicionseccionenniveles.png)
 
 ### Pasos para posicionar secciones
 
