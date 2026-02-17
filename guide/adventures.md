@@ -151,7 +151,9 @@ Al eliminar la imagen del mapa, los jugadores verán el mapa sin imagen de fondo
 
 La vista de detalle muestra toda la información de una aventura junto con su mapa interactivo.
 
-<ImagePlaceholder label="Vista de detalle de una aventura con mapa interactivo" />
+![](/images/detalle.png)
+
+![](/images/detalledelaaventura.png)
 
 ### Mapa interactivo
 
