@@ -9,8 +9,6 @@ Las actividades son la unidad de contenido jugable dentro de cada sección. Cada
 
 Al acceder a la sección **Actividades**, se muestra el listado de todas las actividades de la sección seleccionada.
 
-
-
 ![](/images/actividadesseccion.png)
 
 ### Columnas del listado
@@ -41,7 +39,9 @@ El listado de actividades muestra únicamente las actividades de la sección act
 
 Para crear una nueva actividad, haz clic en el botón **Crear actividad** ubicado en la parte superior del listado.
 
-<ImagePlaceholder label="Formulario de creación de actividad" />
+
+
+![](/images/formulariocrearactividad.png)
 
 El formulario de creación se divide en tres secciones principales:
 
