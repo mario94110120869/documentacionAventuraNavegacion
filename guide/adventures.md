@@ -122,6 +122,10 @@ Desde la edición de la aventura puedes gestionar la imagen del mapa interactivo
 2. Selecciona una nueva imagen desde tu dispositivo.
 3. Haz clic en **Guardar** para confirmar el cambio.
 
+![](/images/cambiarimagen.png)
+
+![](/images/modalcambiarimagen.png)
+
 #### Generar imagen con IA
 
 1. Haz clic en el botón **Generar imagen con IA**.
