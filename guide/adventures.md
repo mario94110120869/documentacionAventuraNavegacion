@@ -80,7 +80,16 @@ El formulario de creación incluye la opción de **generar contenido con IA** de
 3. Revisa el contenido generado y ajústalo si es necesario.
 4. Completa los demás campos y haz clic en **Guardar**.
 
-<ImagePlaceholder label="Generación de aventura con IA - modo básico" />
+### 
+
+
+![](/images/generacionaventuraconiabasica.png)
+
+### 
+
+
+
+![](/images/modalcreacionaventurabasica.png)
 
 ### Generación con IA - Completo
 
