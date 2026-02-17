@@ -43,7 +43,7 @@ Para crear un nuevo nivel, haz clic en el botón **Crear nivel** ubicado en la p
 | **Nombre(titulo)**          | Texto             | Nombre del nivel.                                  | Sí          |
 | **Descripción**     | Texto largo       | Descripción del nivel que verán los jugadores.     | Sí          |
 | **Aventura**        | Selector          | Aventura a la que pertenece el nivel.              | Sí          |
-| **Orden**           | Numérico          | Posición del nivel dentro de la aventura.          | Sí          |
+| **Orden**           | Numérico          | Este se crea secuencialmente.          | Sí          |
 | **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa del nivel. | No          |
 | **Sponsor**         | Selector          | Sponsor asociado al nivel.                         | No          |
 | **Fecha de Activación**         | Fecha| Fecha de activacion del nivel para estar disponible en el juego.                         | No          |
