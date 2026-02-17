@@ -1,7 +1,6 @@
 ---
 title: Niveles
 ---
-
 # Niveles
 
 Los niveles son subdivisiones de una aventura. Cada nivel agrupa secciones y puede tener un sponsor asociado. Desde esta sección puedes crear, editar, visualizar y eliminar niveles.
@@ -10,19 +9,21 @@ Los niveles son subdivisiones de una aventura. Cada nivel agrupa secciones y pue
 
 Al acceder a la sección **Niveles**, se muestra el listado de todos los niveles de la aventura seleccionada.
 
-<ImagePlaceholder label="Listado de niveles de una aventura" />
+
+
+![](/images/listadoniveles.png)
 
 ### Columnas del listado
 
-| Columna | Descripción |
-|---|---|
-| **Imagen** | Miniatura de la imagen del mapa del nivel. |
-| **Nombre** | Nombre del nivel. |
-| **Descripción** | Descripción breve del nivel. |
-| **Secciones** | Número de secciones que contiene el nivel. |
-| **Sponsor** | Nombre del sponsor asociado al nivel (si tiene). |
-| **Orden** | Posición del nivel dentro de la aventura. |
-| **Acciones** | Botones de acción disponibles para cada nivel. |
+| Columna         | Descripción                                      |
+| --------------- | ------------------------------------------------ |
+| **Imagen**      | Miniatura de la imagen del mapa del nivel.       |
+| **Nombre**      | Nombre del nivel.                                |
+| **Descripción** | Descripción breve del nivel.                     |
+| **Secciones**   | Número de secciones que contiene el nivel.       |
+| **Sponsor**     | Nombre del sponsor asociado al nivel (si tiene). |
+| **Orden**       | Posición del nivel dentro de la aventura.        |
+| **Acciones**    | Botones de acción disponibles para cada nivel.   |
 
 ::: info
 El listado de niveles muestra únicamente los niveles de la aventura actualmente seleccionada. Para ver niveles de otra aventura, selecciónala primero desde el listado de aventuras.
@@ -36,14 +37,14 @@ Para crear un nuevo nivel, haz clic en el botón **Crear nivel** ubicado en la p
 
 ### Campos del formulario
 
-| Campo | Tipo | Descripción | Obligatorio |
-|---|---|---|---|
-| **Nombre** | Texto | Nombre del nivel. | Sí |
-| **Descripción** | Texto largo | Descripción del nivel que verán los jugadores. | Sí |
-| **Aventura** | Selector | Aventura a la que pertenece el nivel. | Sí |
-| **Orden** | Numérico | Posición del nivel dentro de la aventura. | Sí |
-| **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa del nivel. | No |
-| **Sponsor** | Selector | Sponsor asociado al nivel. | No |
+| Campo               | Tipo              | Descripción                                        | Obligatorio |
+| ------------------- | ----------------- | -------------------------------------------------- | ----------- |
+| **Nombre**          | Texto             | Nombre del nivel.                                  | Sí          |
+| **Descripción**     | Texto largo       | Descripción del nivel que verán los jugadores.     | Sí          |
+| **Aventura**        | Selector          | Aventura a la que pertenece el nivel.              | Sí          |
+| **Orden**           | Numérico          | Posición del nivel dentro de la aventura.          | Sí          |
+| **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa del nivel. | No          |
+| **Sponsor**         | Selector          | Sponsor asociado al nivel.                         | No          |
 
 ### Pasos para crear un nivel
 
@@ -80,9 +81,9 @@ El formulario de edición contiene los mismos campos que el de creación, con lo
 
 Desde la edición del nivel puedes gestionar la imagen del mapa:
 
-- **Cambiar imagen**: Haz clic en la imagen actual o en el botón **Cambiar imagen** para seleccionar una nueva imagen desde tu dispositivo.
-- **Generar imagen con IA**: Haz clic en **Generar imagen con IA** para crear una imagen basada en el nombre y descripción del nivel.
-- **Eliminar imagen**: Haz clic en **Eliminar imagen** para quitar la imagen de mapa del nivel.
+* **Cambiar imagen**: Haz clic en la imagen actual o en el botón **Cambiar imagen** para seleccionar una nueva imagen desde tu dispositivo.
+* **Generar imagen con IA**: Haz clic en **Generar imagen con IA** para crear una imagen basada en el nombre y descripción del nivel.
+* **Eliminar imagen**: Haz clic en **Eliminar imagen** para quitar la imagen de mapa del nivel.
 
 <ImagePlaceholder label="Gestión de imagen de mapa del nivel" />
 
