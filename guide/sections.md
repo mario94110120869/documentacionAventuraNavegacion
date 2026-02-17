@@ -65,8 +65,6 @@ El formulario de creación incluye la opción de **generar contenido con IA**.
 3. Revisa el contenido generado y ajústalo si es necesario.
 4. Completa los demás campos y haz clic en **Guardar**.
 
-
-
 ![](/images/modalgeneralseccionconia.png)
 
 ::: tip
@@ -77,7 +75,11 @@ La generación con IA tiene en cuenta el nombre y la descripción del nivel y la
 
 Para editar una sección existente, haz clic en el botón **Editar** en el listado de secciones.
 
-<ImagePlaceholder label="Formulario de edición de sección" />
+
+
+![](/images/editarseccion.png)
+
+![](/images/formularioeditarseccion.png)
 
 El formulario de edición contiene los mismos campos que el de creación, con los valores actuales de la sección precargados. Puedes modificar cualquier campo y hacer clic en **Guardar** para confirmar los cambios.
 
