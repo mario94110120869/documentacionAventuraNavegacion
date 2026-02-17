@@ -11,6 +11,8 @@ Al acceder a la sección **Aventuras** del menú lateral, se muestra el listado 
 
 ![](/images/listadodeaventuras.png)
 
+![](/images/columnadellistado.png)
+
 ### Columnas del listado
 
 | Columna                  | Descripción                                       |
