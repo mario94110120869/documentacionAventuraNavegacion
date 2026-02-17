@@ -21,7 +21,7 @@ En la parte superior del listado se muestra una vista previa del mapa del nivel 
 
 | Columna              | Descripción                                                      |
 | -------------------- | ---------------------------------------------------------------- |
-| **Nombre**           | Nombre de la sección.                                            |
+| **Nombre(titulo)**   | Nombre de la sección.                                            |
 | **Descripción**      | Descripción breve de la sección.                                 |
 | **Actividades**      | Número de actividades que contiene la sección.                   |
 | **Orden**            | Posición de la sección dentro del nivel.                         |
@@ -36,20 +36,18 @@ El listado de secciones muestra únicamente las secciones del nivel actualmente 
 
 Para crear una nueva sección, haz clic en el botón **Crear sección** ubicado en la parte superior del listado.
 
-
-
 ![](/images/crearseccion.png)
 
 ![](/images/formulariocrearseccion.png)
 
 ### Campos del formulario
 
-| Campo           | Tipo        | Descripción                                        | Obligatorio |
-| --------------- | ----------- | -------------------------------------------------- | ----------- |
-| **Nombre**      | Texto       | Nombre de la sección.                              | Sí          |
-| **Descripción** | Texto largo | Descripción de la sección que verán los jugadores. | Sí          |
-| **Nivel**       | Selector    | Nivel al que pertenece la sección.                 | Sí          |
-| **Orden**       | Numérico    | Posición de la sección dentro del nivel.           | Sí          |
+| Campo              | Tipo        | Descripción                                        | Obligatorio |
+| ------------------ | ----------- | -------------------------------------------------- | ----------- |
+| **Nombre(titulo)** | Texto       | Nombre de la sección.                              | Sí          |
+| **Descripción**    | Texto largo | Descripción de la sección que verán los jugadores. | Sí          |
+| **Nivel**          | Selector    | Nivel al que pertenece la sección.                 | Sí          |
+| **Orden**          | Numérico    | Posición de la sección dentro del nivel.           | Sí          |
 
 ### Pasos para crear una sección
 
@@ -67,7 +65,9 @@ El formulario de creación incluye la opción de **generar contenido con IA**.
 3. Revisa el contenido generado y ajústalo si es necesario.
 4. Completa los demás campos y haz clic en **Guardar**.
 
-<ImagePlaceholder label="Generación de sección con IA" />
+
+
+![](/images/modalgeneralseccionconia.png)
 
 ::: tip
 La generación con IA tiene en cuenta el nombre y la descripción del nivel y la aventura para generar contenido coherente con la temática general.
