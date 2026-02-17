@@ -178,7 +178,6 @@ La vista de detalle muestra:
 * **Número de trampas**, secciones y actividades.
 * **Fecha de creación** y última modificación.
 
-
 ## 4.5 Resetear una aventura
 
 La función de reseteo permite restablecer las estadísticas y el progreso de los jugadores en una aventura.
@@ -187,7 +186,9 @@ La función de reseteo permite restablecer las estadísticas y el progreso de lo
 **Esta acción es irreversible.** Al resetear una aventura se eliminarán permanentemente todas las estadísticas, el progreso de los jugadores, los sellos obtenidos y las posiciones del ranking asociadas a esa aventura. Esta acción no se puede deshacer.
 :::
 
-<ImagePlaceholder label="Pantalla de reseteo de aventura" />
+![](/images/reseteoboton.png)
+
+![](/images/modalreseteo.png)
 
 ### Estadísticas que se resetean
 
