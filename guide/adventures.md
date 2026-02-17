@@ -80,14 +80,7 @@ El formulario de creación incluye la opción de **generar contenido con IA** de
 3. Revisa el contenido generado y ajústalo si es necesario.
 4. Completa los demás campos y haz clic en **Guardar**.
 
-### 
-
-
 ![](/images/generacionaventuraconiabasica.png)
-
-### 
-
-
 
 ![](/images/modalcreacionaventurabasica.png)
 
@@ -101,7 +94,11 @@ La generación completa con IA permite crear una aventura con toda su estructura
 4. El sistema creará toda la estructura de la aventura automáticamente.
 5. Revisa el contenido generado y ajústalo según sea necesario.
 
-<ImagePlaceholder label="Generación de aventura con IA - modo completo" />
+![](/images/generacionaventuraconiaavanzado.png)
+
+
+
+![](/images/modalcreacionaventuraavanzado.png)
 
 ::: warning
 La generación completa con IA puede tardar varios segundos dependiendo de la cantidad de contenido a generar. No cierres ni recargues la página mientras el proceso está en curso.
