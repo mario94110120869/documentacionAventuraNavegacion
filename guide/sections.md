@@ -1,7 +1,6 @@
 ---
 title: Secciones
 ---
-
 # Secciones
 
 Las secciones son subdivisiones de un nivel. Cada sección agrupa actividades y se posiciona en el mapa del nivel. Desde esta sección puedes crear, editar, visualizar y eliminar secciones.
@@ -10,24 +9,28 @@ Las secciones son subdivisiones de un nivel. Cada sección agrupa actividades y 
 
 Al acceder a la sección **Secciones**, se muestra el listado de todas las secciones del nivel seleccionado.
 
-<ImagePlaceholder label="Listado de secciones de un nivel" />
+
+
+![](/images/seccionennivel.png)
 
 ### Vista previa del mapa
 
 En la parte superior del listado se muestra una vista previa del mapa del nivel con la ubicación de las secciones representadas como puntos. Esta vista permite identificar rápidamente la distribución espacial de las secciones.
 
-<ImagePlaceholder label="Vista previa del mapa con posiciones de secciones" />
+
+
+![](/images/vistapreviaseccion.png)
 
 ### Columnas del listado
 
-| Columna | Descripción |
-|---|---|
-| **Nombre** | Nombre de la sección. |
-| **Descripción** | Descripción breve de la sección. |
-| **Actividades** | Número de actividades que contiene la sección. |
-| **Orden** | Posición de la sección dentro del nivel. |
+| Columna              | Descripción                                                      |
+| -------------------- | ---------------------------------------------------------------- |
+| **Nombre**           | Nombre de la sección.                                            |
+| **Descripción**      | Descripción breve de la sección.                                 |
+| **Actividades**      | Número de actividades que contiene la sección.                   |
+| **Orden**            | Posición de la sección dentro del nivel.                         |
 | **Posición en mapa** | Indica si la sección tiene posición asignada en el mapa (Sí/No). |
-| **Acciones** | Botones de acción disponibles para cada sección. |
+| **Acciones**         | Botones de acción disponibles para cada sección.                 |
 
 ::: info
 El listado de secciones muestra únicamente las secciones del nivel actualmente seleccionado. Para ver secciones de otro nivel, selecciónalo primero desde el listado de niveles.
@@ -41,12 +44,12 @@ Para crear una nueva sección, haz clic en el botón **Crear sección** ubicado 
 
 ### Campos del formulario
 
-| Campo | Tipo | Descripción | Obligatorio |
-|---|---|---|---|
-| **Nombre** | Texto | Nombre de la sección. | Sí |
-| **Descripción** | Texto largo | Descripción de la sección que verán los jugadores. | Sí |
-| **Nivel** | Selector | Nivel al que pertenece la sección. | Sí |
-| **Orden** | Numérico | Posición de la sección dentro del nivel. | Sí |
+| Campo           | Tipo        | Descripción                                        | Obligatorio |
+| --------------- | ----------- | -------------------------------------------------- | ----------- |
+| **Nombre**      | Texto       | Nombre de la sección.                              | Sí          |
+| **Descripción** | Texto largo | Descripción de la sección que verán los jugadores. | Sí          |
+| **Nivel**       | Selector    | Nivel al que pertenece la sección.                 | Sí          |
+| **Orden**       | Numérico    | Posición de la sección dentro del nivel.           | Sí          |
 
 ### Pasos para crear una sección
 
