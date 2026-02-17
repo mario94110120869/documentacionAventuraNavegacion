@@ -239,11 +239,7 @@ El editor de mapa permite configurar la imagen de fondo y la disposición visual
 | **Restablecer zoom** | Devuelve el mapa a su nivel de zoom original. |
 | **Rueda del ratón**  | Permite hacer zoom con la rueda del ratón.    |
 
-
-
 ![](/images/mapadeposiciondentro.png)
-
-
 
 ::: tip
 Utiliza la combinación de zoom y desplazamiento para navegar por mapas grandes y posicionar los elementos con precisión.
@@ -257,7 +253,9 @@ La eliminación de una aventura es una acción permanente que solo puede ser rea
 **Esta acción es irreversible.** Al eliminar una aventura se eliminan permanentemente todos sus niveles, secciones, actividades, preguntas y cualquier contenido asociado. Esta acción no se puede deshacer.
 :::
 
-<ImagePlaceholder label="Diálogo de confirmación de eliminación de aventura" />
+
+
+![](/images/modalconfirmacioneliminaraventura.png)
 
 ### Pasos para eliminar una aventura
 
