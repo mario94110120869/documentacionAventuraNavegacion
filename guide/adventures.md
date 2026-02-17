@@ -186,10 +186,6 @@ La función de reseteo permite restablecer las estadísticas y el progreso de lo
 **Esta acción es irreversible.** Al resetear una aventura se eliminarán permanentemente todas las estadísticas, el progreso de los jugadores, los sellos obtenidos y las posiciones del ranking asociadas a esa aventura. Esta acción no se puede deshacer.
 :::
 
-![](/images/reseteoboton.png)
-
-![](/images/modalreseteo.png)
-
 ### Estadísticas que se resetean
 
 | Estadística                | Descripción                                                           |
@@ -212,7 +208,9 @@ La función de reseteo permite restablecer las estadísticas y el progreso de lo
 4. Escribe la palabra **RESETEAR** en el campo de confirmación.
 5. Haz clic en **Confirmar reseteo**.
 
-<ImagePlaceholder label="Diálogo de confirmación de reseteo con campo de texto RESETEAR" />
+![](/images/reseteoboton.png)
+
+![](/images/modalreseteo.png)
 
 ::: danger
 Asegúrate de que realmente deseas resetear la aventura. Una vez confirmada la acción, no es posible recuperar los datos eliminados.
