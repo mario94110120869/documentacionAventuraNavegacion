@@ -77,7 +77,9 @@ La generación con IA tiene en cuenta el nombre y la descripción de la aventura
 
 Para editar un nivel existente, haz clic en el botón **Editar** en el listado de niveles.
 
-<ImagePlaceholder label="Formulario de edición de nivel" />
+
+
+![](/images/editarnivel.png)
 
 El formulario de edición contiene los mismos campos que el de creación, con los valores actuales del nivel precargados.
 
