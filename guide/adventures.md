@@ -222,8 +222,6 @@ El editor de mapa permite configurar la imagen de fondo y la disposición visual
 
 ![](/images/mapaedicionposicion.png)
 
-<ImagePlaceholder label="Editor de mapa de la aventura" />
-
 ### Pasos para usar el editor de mapa
 
 1. Accede a la vista de detalle de la aventura.
