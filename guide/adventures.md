@@ -9,7 +9,7 @@ Las aventuras son la unidad principal del juego. Desde esta sección puedes crea
 
 Al acceder a la sección **Aventuras** del menú lateral, se muestra el listado de todas las aventuras registradas en el sistema.
 
-![](/images/listadoaventuras.png)
+![](/images/Listado de aventuras.png)
 
 <ImagePlaceholder label="Listado de aventuras en el panel de administración" />
 
