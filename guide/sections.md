@@ -75,8 +75,6 @@ La generación con IA tiene en cuenta el nombre y la descripción del nivel y la
 
 Para editar una sección existente, haz clic en el botón **Editar** en el listado de secciones.
 
-
-
 ![](/images/editarseccion.png)
 
 ![](/images/formularioeditarseccion.png)
@@ -91,7 +89,9 @@ Desde la edición de una sección también puedes acceder directamente al listad
 
 Para eliminar una sección, haz clic en el botón **Eliminar** en el listado de secciones y confirma la acción en el diálogo de confirmación.
 
-<ImagePlaceholder label="Diálogo de confirmación de eliminación de sección" />
+
+
+![](/images/modaleliminarseccion.png)
 
 ::: warning
 **Eliminación en cascada.** Al eliminar una sección se eliminan automáticamente todas sus actividades y preguntas asociadas. Asegúrate de que deseas eliminar todo el contenido de la sección antes de confirmar.
