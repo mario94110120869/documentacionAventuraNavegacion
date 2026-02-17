@@ -39,7 +39,7 @@ Cada aventura en el listado dispone de las siguientes acciones:
 | **Ver detalle**         | Accede a la vista de detalle de la aventura con su mapa interactivo.             |
 | **Editar**              | Abre el formulario de edición de la aventura.                                    |
 | **Resetear**            | Restablece las estadísticas y progreso de la aventura.                           |
-| **Eliminar**            | Elimina la aventura de forma permanente (solo <RoleTag role="super-admin" />).   |
+| **Eliminar**| Elimina la aventura de forma permanente (solo <RoleTag role="super-admin" />).   |
 
 ## 4.2 Crear una aventura
 
