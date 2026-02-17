@@ -9,8 +9,6 @@ Los niveles son subdivisiones de una aventura. Cada nivel agrupa secciones y pue
 
 Al acceder a la sección **Niveles**, se muestra el listado de todos los niveles de la aventura seleccionada.
 
-
-
 ![](/images/listadoniveles.png)
 
 ### Columnas del listado
@@ -18,10 +16,11 @@ Al acceder a la sección **Niveles**, se muestra el listado de todos los niveles
 | Columna         | Descripción                                      |
 | --------------- | ------------------------------------------------ |
 | **Imagen**      | Miniatura de la imagen del mapa del nivel.       |
-| **Nombre**      | Nombre del nivel.                                |
+| **Nombre(titulo)**      | Nombre del nivel.                                |
 | **Descripción** | Descripción breve del nivel.                     |
 | **Secciones**   | Número de secciones que contiene el nivel.       |
 | **Sponsor**     | Nombre del sponsor asociado al nivel (si tiene). |
+| **Fecha de activación	**     | Fecha de activación del nivel (opcional). |
 | **Orden**       | Posición del nivel dentro de la aventura.        |
 | **Acciones**    | Botones de acción disponibles para cada nivel.   |
 
