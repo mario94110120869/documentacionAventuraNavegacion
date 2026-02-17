@@ -51,12 +51,14 @@ Para crear una nueva aventura, haz clic en el botón **Crear aventura** ubicado 
 
 ### Campos del formulario
 
-| Campo               | Tipo              | Descripción                                                         | Obligatorio |
-| ------------------- | ----------------- | ------------------------------------------------------------------- | ----------- |
-| **Nombre**          | Texto             | Nombre de la aventura.                                              | Sí          |
-| **Descripción**     | Texto largo       | Descripción de la aventura que verán los jugadores.                 | Sí          |
-| **Imagen del mapa** | Archivo de imagen | Imagen que se usará como fondo del mapa interactivo de la aventura. | No          |
-| **Estado**          | Selector          | Estado de la aventura: activa o inactiva.                           | Sí          |
+| Campo                                  | Tipo              | Descripción                                                                     | Obligatorio |
+| -------------------------------------- | ----------------- | ------------------------------------------------------------------------------- | ----------- |
+| **Nombre(Titulo)**                     | Texto             | Nombre de la aventura(Titulo).                                                  | Sí          |
+| **Descripción**                        | Texto largo       | Descripción de la aventura que verán los jugadores.                             | No          |
+| **Fecha Inicio y Fecha Fin**           | Fecha             | Fecha de la aventura no es relevante.                                           | No          |
+| **Plantilla de colores para el juego** | Selector          | Por defecto en caso que no se agregue se seleccionara los colores por defectos. | No          |
+| **Imagen del mapa**                    | Archivo de imagen | Imagen que se usará como fondo del mapa interactivo de la aventura.             | No          |
+| **Estado**                             | Selector          | Estado de la aventura: activa o inactiva.(Por defecto activa)                   | Sí          |
 
 ### Pasos para crear una aventura
 
