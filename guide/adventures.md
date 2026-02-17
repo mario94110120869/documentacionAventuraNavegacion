@@ -129,7 +129,9 @@ Desde la edición de la aventura puedes gestionar la imagen del mapa interactivo
 3. Revisa la imagen generada.
 4. Haz clic en **Guardar** para confirmar.
 
-<ImagePlaceholder label="Generación de imagen de mapa con IA" />
+![](/images/generacionimagenconiadeseformularoedicion.png)
+
+![](/images/formulariogeneracionimagenconia.png)
 
 #### Eliminar imagen
 
