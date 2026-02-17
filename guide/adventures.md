@@ -47,7 +47,7 @@ Para crear una nueva aventura, haz clic en el botón **Crear aventura** ubicado 
 
 ![](/images/crearavnetura.png)
 
-<ImagePlaceholder label="Formulario de creación de aventura" />
+![](/images/formulariocrearavnetura.png)
 
 ### Campos del formulario
 
