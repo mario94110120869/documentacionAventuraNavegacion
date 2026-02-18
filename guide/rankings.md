@@ -164,7 +164,9 @@ Este modo determina a los ganadores según su **posición en el ranking de puntu
 4. Confirme para ejecutar el proceso.
 5. Al completarse, se muestra un mensaje con la **cantidad de usuarios notificados** y **premios otorgados**.
 
-<ImagePlaceholder label="Diálogo de confirmación de finalización por puntos" />
+
+
+![](/images/modalfinalizarrankingporpunto.png)
 
 ### Finalizar Ranking de Sellos (pestaña Sellos)
 
@@ -183,9 +185,11 @@ Este modo determina a los ganadores según la **cantidad de sellos confirmados**
    * **Decrementa** las cantidades de sellos limitados que se otorguen como premio.
 5. Confirme para ejecutar el proceso.
 
-<ImagePlaceholder label="Diálogo de confirmación de finalización por sellos" />
 
-### Estado post-finalización
+
+![](/images/finalizarrankingporsello.png)
+
+### Estado post-finalización Ranking Puntos
 
 Una vez finalizada la aventura:
 
@@ -197,3 +201,19 @@ Una vez finalizada la aventura:
 ::: warning
 Antes de finalizar, verifique que la **configuración de premios** (sección 13) esté completa y correcta. Una vez distribuidos los premios, no se pueden modificar ni revocar.
 :::
+
+
+
+### Estado post-finalización Ranking Sellos
+
+Una vez finalizada la aventura de ranking de sellos:
+
+* El botón de finalización no cambia.
+* El botón queda **habilitado**.
+* El ranking sigue siendo consultable y se puede seguir compitiendo en la aventura.
+* Los premios se distribuyen de forma inmediata a los jugadores que ganaron sellos limitados por lo que se le notifica.
+
+
+  ::: warning
+  El finalizar ranking por sello solo notifica a los jugadores que obtuvieron sellos limitados por cualquiera de las vías tesoros o actividades, por lo que se puede seguir compitiendo y cada ves que se cierre el ranking se volverán a otorgar los sellos ilimitado descontando su disponibilidad .
+  :::
