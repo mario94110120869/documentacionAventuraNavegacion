@@ -125,11 +125,15 @@ Aunque el ranking se actualiza automáticamente, siempre puede usar el botón **
 Para exportar el ranking como documento PDF:
 
 1. Haga clic en el botón **"Exportar PDF"** en el encabezado de la sección.
-2. El sistema genera un documento PDF con la **clasificación completa** de la aventura seleccionada.
+2. El sistema genera un documento PDF con la **clasificación completa** de la aventura seleccionada según la opción de ranking por puntuación o ranking por sellos.
 3. Se abre un **visor previo** en pantalla donde puede revisar el contenido del documento.
 4. Si el resultado es satisfactorio, haga clic en **"Descargar"** para guardar el archivo PDF en su equipo.
 
-<ImagePlaceholder label="Visor previo del PDF de rankings con opción de descarga" />
+
+
+![](/images/exportarrankingpuntuacion.png)
+
+![](/images/exportrankingsello.png)
 
 ::: info
 El PDF incluye la información de todos los jugadores clasificados, sus puntuaciones, actividades completadas y sellos obtenidos, según la pestaña activa al momento de la exportación.
