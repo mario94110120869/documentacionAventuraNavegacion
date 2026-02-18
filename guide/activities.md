@@ -115,8 +115,6 @@ Desde la edición de una actividad puedes gestionar los **sellos** asociados:
 * **Seleccionar sello**: Elige de entre los sponsor los sellos disponibles en el sistema.
 * **Quitar sello**: Elimina el sello asociado a la actividad.
 
-
-
 ![](/images/sellodelaactividad.png)
 
 ![](/images/selloactividadsponsor.png)
@@ -132,6 +130,14 @@ Los sellos limitados cuentan con una cantidad disponible, la cual se irá decrem
 Nota:
 Los sellos asignados a una actividad, independientemente de su disponibilidad, no podrán ser asignados a un tesoro ni a las premiaciones por lugares. De esta manera, nos aseguramos de que sean únicos y de que el jugador pueda ganar sellos sin repetirlos..
 :::
+
+#### Pistas
+
+* **Agregar Pistas**: Asigna una Pista que el jugador obtendrá al completar correctamente la actividad.
+
+![](/images/pistaenactividades.png)
+
+![](/images/formulariopista.png)
 
 ## 6.4 Generación de actividades con IA
 
