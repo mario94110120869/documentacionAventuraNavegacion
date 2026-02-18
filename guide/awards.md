@@ -102,7 +102,9 @@ Para eliminar la última posición:
 2. Se abrirá un diálogo de confirmación.
 3. Confirme la eliminación para proceder.
 
-<ImagePlaceholder label="Botón de eliminar visible solo en la última posición de la lista" />
+
+
+![](/images/eliminarposicion.png)
 
 ::: info
 Si desea eliminar una posición intermedia, deberá eliminar primero todas las posiciones posteriores, de la última a la primera, hasta llegar a la posición que desea remover.
