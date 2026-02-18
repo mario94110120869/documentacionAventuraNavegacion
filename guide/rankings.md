@@ -71,7 +71,11 @@ Clasifica a los jugadores por la **cantidad de puntos acumulados** de mayor a me
 | **Actividades** | Número de actividades completadas por el jugador.                                                                                                                                  |
 | **Sellos**      | Número total de sellos obtenidos por el jugador.                                                                                                                                   |
 
-<ImagePlaceholder label="Pestaña Puntuación con medallas, indicadores de estado y puntuación" />
+
+
+
+
+![](/images/rankingpuntuacionmedalla.png)
 
 ### Pestaña "Sellos"
 
@@ -85,7 +89,11 @@ Clasifica a los jugadores por la **cantidad de sellos confirmados** de mayor a m
 | **Total Sellos**       | Cantidad total de sellos con nota adicional de *"X no alcanzados"* si el jugador tiene sellos pendientes por confirmar. |
 | **Puntuación**         | Puntos acumulados como dato secundario de referencia.                                                                   |
 
-<ImagePlaceholder label="Pestaña Sellos con clasificación por sellos confirmados" />
+
+
+
+
+![](/images/rankingsellos.png)
 
 ## 14.4 Detalle de jugador
 
