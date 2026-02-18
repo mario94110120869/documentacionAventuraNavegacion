@@ -35,8 +35,6 @@ La tabla incluye controles de **paginación** en la parte inferior para navegar 
 
 Haga clic en **"Nuevo Tesoro"** para acceder al formulario de creación.
 
-
-
 ![](/images/creartesoro.png)
 
 ![](/images/formulariocreartesoro.png)
@@ -47,7 +45,7 @@ Haga clic en **"Nuevo Tesoro"** para acceder al formulario de creación.
 | --------------- | ------------------------------------------------------- | --------------------------------------------- |
 | **Nombre**      | Nombre del tesoro.                                      | Obligatorio. Mínimo 2 caracteres.             |
 | **Descripción** | Texto descriptivo del tesoro.                           | Opcional.                                     |
-| **Pista**       | Pista que verán los jugadores para encontrar el tesoro. | Opcional.                                     |
+| **Pista**       | Descripción breve de una pista.                         | Opcional.                                     |
 | **Puntos**      | Puntos otorgados al jugador cuando encuentra el tesoro. | Obligatorio. Mínimo 0. Valor por defecto: 20. |
 
 ### Gestor de sellos de sponsor
@@ -70,7 +68,11 @@ Todo tesoro **debe** tener al menos **1 sello de sponsor asignado**. Si intenta 
 
 El formulario de edición presenta los mismos campos que el de creación, con **dos secciones adicionales**:
 
-<ImagePlaceholder label="Formulario de edición de tesoro con sellos y traks" />
+
+
+![](/images/formularioeditartesoro.png)
+
+![](/images/pistatesoro.png)
 
 ### Gestor de sellos de sponsor
 
@@ -83,7 +85,7 @@ Muestra los sellos actualmente asignados al tesoro y permite:
 Al editar, el sistema seguirá validando que el tesoro tenga al menos 1 sello asignado. No podrá quitar el último sello sin asignar otro primero.
 :::
 
-### Gestor de traks
+### Gestor de traks(Pistas)
 
 Permite adjuntar **fotografías o evidencias visuales** al tesoro. Los traks son imágenes que enriquecen la experiencia del jugador:
 
