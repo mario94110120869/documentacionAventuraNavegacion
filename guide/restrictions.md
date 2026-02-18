@@ -19,6 +19,8 @@ En las secciones afectadas se muestra un banner ambar con el mensaje: **"Esta av
 
 ![](/images/aventurarestrinccion.png)
 
+![](/images/seccionesrestrincion.png)
+
 ### Acciones bloqueadas cuando hay jugadores
 
 | Entidad         | Acciones bloqueadas                                                                                |
