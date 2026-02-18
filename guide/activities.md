@@ -9,7 +9,9 @@ Las actividades son la unidad de contenido jugable dentro de cada sección. Cada
 
 Al acceder a la sección **Actividades**, se muestra el listado de todas las actividades de la sección seleccionada.
 
-<ImagePlaceholder label="Listado de actividades de una sección" />
+
+
+![](/images/actividadesseccion.png)
 
 ### Columnas del listado
 
@@ -39,7 +41,9 @@ El listado de actividades muestra únicamente las actividades de la sección act
 
 Para crear una nueva actividad, haz clic en el botón **Crear actividad** ubicado en la parte superior del listado.
 
-<ImagePlaceholder label="Formulario de creación de actividad" />
+
+
+![](/images/formulariocrearactividad.png)
 
 El formulario de creación se divide en tres secciones principales:
 
@@ -73,7 +77,15 @@ La configuración de respuestas depende del tipo de pregunta seleccionado.
 | **Selección múltiple** | El jugador debe seleccionar todas las respuestas correctas de entre varias opciones. | Se configuran múltiples opciones de respuesta y se marcan una o más como correctas. |
 | **Arrastrar y soltar** | El jugador debe arrastrar elementos a sus posiciones correctas.                      | Se configuran los elementos arrastrables y sus posiciones de destino correctas.     |
 
-<ImagePlaceholder label="Configuración de respuestas según tipo de pregunta" />
+
+
+
+
+![](/images/preguntaseleccionunica.png)
+
+![](/images/seleccionmultiple.png)
+
+![](/images/preguntaarrastrarysoltar.png)
 
 ### Pasos para crear una actividad
 
