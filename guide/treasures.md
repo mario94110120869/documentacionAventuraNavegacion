@@ -10,8 +10,6 @@ Los tesoros son objetos coleccionables que los jugadores pueden encontrar durant
 
 ## 9.1 Listado de tesoros
 
-
-
 ![](/images/tesoro.png)
 
 ![](/images/listadetesoros.png)
@@ -37,7 +35,11 @@ La tabla incluye controles de **paginación** en la parte inferior para navegar 
 
 Haga clic en **"Nuevo Tesoro"** para acceder al formulario de creación.
 
-<ImagePlaceholder label="Formulario de creación de tesoro con gestor de sellos" />
+
+
+![](/images/creartesoro.png)
+
+![](/images/formulariocreartesoro.png)
 
 ### Campos del formulario
 
