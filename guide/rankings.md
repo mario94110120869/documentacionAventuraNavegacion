@@ -215,5 +215,5 @@ Una vez finalizada la aventura de ranking de sellos:
 
 
   ::: warning
-  El finalizar ranking por sello solo notifica a los jugadores que obtuvieron sellos limitados por cualquiera de las vías tesoros o actividades, por lo que se puede seguir compitiendo y cada ves que se cierre el ranking se volverán a otorgar los sellos ilimitado descontando su disponibilidad .
+  El finalizar ranking por sello solo notifica a los jugadores que obtuvieron sellos limitados por cualquiera de las vías tesoros o actividades, por lo que se puede seguir compitiendo y cada ves que se cierre el ranking se volverán a otorgar los sellos ilimitado descontando su disponibilidad.
   :::
