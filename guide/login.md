@@ -7,8 +7,6 @@ title: Inicio de sesión y perfil
 
 Al acceder al panel de administración, se muestra la pantalla de inicio de sesión donde el usuario debe ingresar sus credenciales.
 
-
-
 ![](/images/loguin.png)
 
 ### Campos del formulario
@@ -37,8 +35,6 @@ El sistema recuerda tu sesión. Si cierras el navegador y vuelves a acceder al p
 
 Una vez dentro del panel, la barra superior se muestra en todas las páginas y contiene los siguientes elementos:
 
-
-
 ![](/images/header.png)
 
 | Elemento                      | Descripción                                                                                                                      |
@@ -52,19 +48,16 @@ Una vez dentro del panel, la barra superior se muestra en todas las páginas y c
 
 El sistema genera notificaciones automáticas para informar sobre eventos importantes dentro del panel.
 
-
-
 ![](/images/notificacion.png)
 
 ### ¿Cuándo se generan notificaciones?
 
 Las notificaciones se generan en los siguientes casos:
 
-* Cuando se **crea** una nueva aventura, nivel, sección o actividad.
-* Cuando se **edita** un elemento existente.
-* Cuando se **elimina** un elemento.
-* Cuando se **resetea** una aventura.
-* Cuando se realizan acciones de **generación con IA**.
+* Cuando el usuario sincroniza y gana actividades.
+* Cuando usuario sincroniza y gana sellos.
+* Cuando cuando el usuario sincroniza y encuentra tesoro.
+* Cuando el usuario sincroniza y activa trampas.
 
 ### Acciones disponibles
 
@@ -79,8 +72,6 @@ El contador en la campana de notificaciones muestra únicamente las notificacion
 ## 2.4 Cerrar sesión
 
 Para cerrar tu sesión en el panel de administración:
-
-
 
 ![](/images/cerrarseccion.png)
 
