@@ -143,8 +143,6 @@ Los sellos asignados a una actividad, independientemente de su disponibilidad, n
 
 La generación con IA permite crear actividades completas (con pregunta y respuestas) de forma automática.
 
-
-
 ![](/images/generaractividadesconia.png)
 
 ![](/images/modalgeneracionactividadesia.png)
@@ -169,6 +167,24 @@ La generación con IA puede tardar varios segundos dependiendo de la cantidad de
 ::: tip
 Revisa siempre el contenido generado por la IA. Aunque el sistema genera contenido coherente y relevante, es recomendable verificar la precisión de las preguntas y las respuestas correctas.
 :::
+
+### Pasos para generar actividades con IA desde el Formulario
+
+1. Accede al formulario de actividades.
+2. Haz clic en el botón **Generar actividades con IA**.
+3. Haz clic en **Generar**.
+4. El sistema creará las actividades con sus preguntas y respuestas automáticamente.
+5. Revisa las actividades generadas y ajústalas si es necesario.
+
+::: warning
+La generación con IA puede tardar varios segundos. No cierres ni recargues la página mientras el proceso está en curso.
+:::
+
+::: tip
+Revisa siempre el contenido generado por la IA. Aunque el sistema genera contenido coherente y relevante, es recomendable verificar la precisión de las preguntas y las respuestas correctas.
+:::
+
+![](/images/generarelcontenidodelaactividadconia.png)
 
 ## 7.5 Ver detalle de una actividad
 
