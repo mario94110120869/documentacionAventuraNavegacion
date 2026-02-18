@@ -192,7 +192,11 @@ Revisa siempre el contenido generado por la IA. Aunque el sistema genera conteni
 
 La vista de detalle muestra toda la información de una actividad, incluyendo la pregunta y las respuestas configuradas.
 
-<ImagePlaceholder label="Vista de detalle de una actividad" />
+
+
+![](/images/modaldetalleactividad1.png)
+
+![](/images/modaldetalleactividad2.png)
 
 La vista de detalle incluye:
 
@@ -201,7 +205,7 @@ La vista de detalle incluye:
 * **Tipo de pregunta**.
 * **Opciones de respuesta** con indicación visual de cuáles son correctas.
 * **Explicación** que se muestra al jugador después de responder (si tiene).
-* **Trampa** asociada (si tiene).
+* **Pistas** asociada (si tiene).
 * **Sello** asociado (si tiene).
 
 ::: info
