@@ -9,7 +9,7 @@ Las actividades son la unidad de contenido jugable dentro de cada sección. Cada
 
 Al acceder a la sección **Actividades**, se muestra el listado de todas las actividades de la sección seleccionada.
 
-![](/images/actividadesseccion.png)
+<ImagePlaceholder label="Listado de actividades de una sección" />
 
 ### Columnas del listado
 
@@ -39,7 +39,7 @@ El listado de actividades muestra únicamente las actividades de la sección act
 
 Para crear una nueva actividad, haz clic en el botón **Crear actividad** ubicado en la parte superior del listado.
 
-![](/images/formulariocrearactividad.png)
+<ImagePlaceholder label="Formulario de creación de actividad" />
 
 El formulario de creación se divide en tres secciones principales:
 
@@ -73,13 +73,7 @@ La configuración de respuestas depende del tipo de pregunta seleccionado.
 | **Selección múltiple** | El jugador debe seleccionar todas las respuestas correctas de entre varias opciones. | Se configuran múltiples opciones de respuesta y se marcan una o más como correctas. |
 | **Arrastrar y soltar** | El jugador debe arrastrar elementos a sus posiciones correctas.                      | Se configuran los elementos arrastrables y sus posiciones de destino correctas.     |
 
-
-
-![](/images/preguntaseleccionunica.png)
-
-![](/images/seleccionmultiple.png)
-
-![](/images/preguntaarrastrarysoltar.png)
+<ImagePlaceholder label="Configuración de respuestas según tipo de pregunta" />
 
 ### Pasos para crear una actividad
 
@@ -100,23 +94,17 @@ Agrega al menos 3 o 4 opciones de respuesta en preguntas de selección para hace
 
 ## 7.3 Editar una actividad
 
-Para editar una actividad existente, haz clic en el botón **Editar** en el listado de actividades o desde la vista de detalle.
+Para editar una actividad existente, haz clic en el botón **Editar** en el listado de actividades.
 
-<ImagePlaceholder label="Formulario de edición de actividad" />
+![](/images/editaractividad.png)
+
+![](/images/formularioeditaractividades.png)
 
 El formulario de edición contiene los mismos campos que el de creación, con los valores actuales de la actividad precargados. Puedes modificar cualquier campo, incluida la pregunta y las respuestas.
 
 ### Gestor de trampas y sellos
 
-Desde la edición de una actividad puedes gestionar las **trampas** y los **sellos** asociados:
-
-#### Trampas
-
-* **Agregar trampa**: Asigna una trampa a la actividad que se activará cuando el jugador responda incorrectamente.
-* **Configurar trampa**: Define el tipo de penalización y su severidad.
-* **Quitar trampa**: Elimina la trampa asociada a la actividad.
-
-<ImagePlaceholder label="Gestor de trampas de una actividad" />
+Desde la edición de una actividad puedes gestionar los **sellos** asociados:
 
 #### Sellos
 
