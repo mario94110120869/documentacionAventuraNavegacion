@@ -1,25 +1,30 @@
 ---
 title: Dashboard
 ---
-
 # Dashboard
 
 El Dashboard es la página principal del panel de administración. Se muestra inmediatamente después de iniciar sesión y ofrece una vista general del estado del juego con estadísticas, accesos directos y actividad reciente.
 
-<ImagePlaceholder label="Vista general del Dashboard" />
+
+
+![](/images/dashboard.png)
 
 ## 3.1 Tarjetas de estadísticas
 
 En la parte superior del Dashboard se muestran tarjetas con las estadísticas generales del sistema:
 
-| Tarjeta | Descripción |
-|---|---|
-| **Total de aventuras** | Número total de aventuras creadas en el sistema. |
-| **Total de niveles** | Número total de niveles creados en todas las aventuras. |
-| **Total de secciones** | Número total de secciones creadas en todos los niveles. |
+| Tarjeta                  | Descripción                                                 |
+| ------------------------ | ----------------------------------------------------------- |
+| **Total de aventuras**   | Número total de aventuras creadas en el sistema.            |
+| **Total de niveles**     | Número total de niveles creados en todas las aventuras.     |
+| **Total de secciones**   | Número total de secciones creadas en todos los niveles.     |
 | **Total de actividades** | Número total de actividades creadas en todas las secciones. |
 
-<ImagePlaceholder label="Tarjetas de estadísticas del Dashboard" />
+
+
+
+
+![](/images/tarjetadashboard.png)
 
 ::: info
 Las estadísticas se actualizan en tiempo real. Cada vez que se crea o elimina un elemento, los contadores reflejan el cambio de inmediato.
@@ -29,14 +34,18 @@ Las estadísticas se actualizan en tiempo real. Cada vez que se crea o elimina u
 
 El Dashboard incluye accesos directos a las acciones más frecuentes del panel:
 
-| Acción rápida | Descripción |
-|---|---|
-| **Crear aventura** | Redirige al formulario de creación de una nueva aventura. |
-| **Crear nivel** | Redirige al formulario de creación de un nuevo nivel. |
-| **Crear sección** | Redirige al formulario de creación de una nueva sección. |
+| Acción rápida       | Descripción                                                |
+| ------------------- | ---------------------------------------------------------- |
+| **Crear aventura**  | Redirige al formulario de creación de una nueva aventura.  |
+| **Crear nivel**     | Redirige al formulario de creación de un nuevo nivel.      |
+| **Crear sección**   | Redirige al formulario de creación de una nueva sección.   |
 | **Crear actividad** | Redirige al formulario de creación de una nueva actividad. |
 
-<ImagePlaceholder label="Acciones rápidas del Dashboard" />
+
+
+
+
+![](/images/accionesrapidadashboard.png)
 
 ::: tip
 Utiliza las acciones rápidas para agilizar tu flujo de trabajo. Son especialmente útiles cuando necesitas crear contenido nuevo sin navegar por el menú lateral.
@@ -46,19 +55,21 @@ Utiliza las acciones rápidas para agilizar tu flujo de trabajo. Son especialmen
 
 La sección de actividad reciente muestra un listado cronológico de las últimas acciones realizadas en el panel, como:
 
-- Creación de aventuras, niveles, secciones o actividades.
-- Edición de elementos existentes.
-- Eliminación de elementos.
-- Reseteos de aventuras.
+* Creación de aventuras, niveles, secciones o actividades.
+* Edición de elementos existentes.
+* Eliminación de elementos.
+* Reseteos de aventuras.
 
-<ImagePlaceholder label="Sección de actividad reciente del Dashboard" />
+
+
+![](/images/accionactividadesresientes.png)
 
 Cada entrada de actividad reciente muestra:
 
-- **Tipo de acción** (creación, edición, eliminación).
-- **Elemento afectado** (nombre del elemento y su tipo).
-- **Usuario** que realizó la acción.
-- **Fecha y hora** de la acción.
+* **Tipo de acción** (creación, edición, eliminación).
+* **Elemento afectado** (nombre del elemento y su tipo).
+* **Usuario** que realizó la acción.
+* **Fecha y hora** de la acción.
 
 ::: info
 La actividad reciente muestra las últimas acciones realizadas por todos los usuarios del panel, no solo las del usuario actual.
@@ -72,9 +83,9 @@ En la parte superior del Dashboard se muestra un banner de bienvenida personaliz
 
 El banner incluye:
 
-- Un **saludo personalizado** con el nombre del usuario.
-- Un **resumen rápido** del estado actual del sistema.
-- Acceso directo a la **documentación** o ayuda del panel.
+* Un **saludo personalizado** con el nombre del usuario.
+* Un **resumen rápido** del estado actual del sistema.
+* Acceso directo a la **documentación** o ayuda del panel.
 
 ::: tip
 El banner de bienvenida te permite identificar rápidamente con qué cuenta has iniciado sesión, lo cual es útil si gestionas múltiples cuentas.
