@@ -75,8 +75,6 @@ El formulario adapta sus campos en función del tipo de efecto seleccionado:
 * El campo de penalización numérica **desaparece** (no es necesario).
 * Se muestra un recuadro rojo con el mensaje: *"El jugador perderá un sello de patrocinador aleatorio."*
 
-
-
 ![](/images/penalizacionporsello.png)
 
 ::: info
@@ -93,4 +91,6 @@ La casilla **"Trampa activa"** permite desactivar temporalmente una trampa sin e
 La eliminación de una trampa es permanente. Si la trampa estaba activa, dejará de afectar a los jugadores inmediatamente tras su eliminación.
 :::
 
-<ImagePlaceholder label="Diálogo de confirmación de eliminación de trampa" />
+
+
+![](/images/modaleliminartrampa.png)
