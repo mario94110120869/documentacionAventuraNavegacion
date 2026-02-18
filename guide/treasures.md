@@ -91,7 +91,7 @@ Permite adjuntar **fotografías o evidencias visuales** al tesoro. Los traks son
 
 * Haga clic en **"Agregar trak"** para subir una nueva imagen.
 * Cada trak muestra una vista previa con opciones para **ver** o **eliminar**.
-::: warning Sellos afectados
+::: warning Aclaración sobre las Pistas en (Tesoros y Actividades)
 Las tracks (pistas) están orientadas a guiar al jugador en la búsqueda de un objetivo, no necesariamente de un tesoro.
 Estas pueden asignarse tanto a actividades como a tesoros, y su finalidad dependerá de lo que el administrador defina.
 
@@ -113,7 +113,7 @@ De esta manera, las pistas funcionan como un mecanismo flexible para dirigir la 
 1. Haga clic en el botón de **eliminar** (icono de papelera) en la fila del tesoro.
 2. Se abrirá un diálogo de confirmación.
 
-::: warning Aclaración sobre las Pistas en (Tesoros y Actividades)
+::: warning Sellos Afectados
 Si el tesoro tiene **sellos de sponsor asignados**, el diálogo de confirmación mostrará una advertencia listando todos los sellos que **quedarán sin asignar** tras la eliminación. Revise esta lista cuidadosamente antes de confirmar.
 :::
 
