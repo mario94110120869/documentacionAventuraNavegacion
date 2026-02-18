@@ -58,7 +58,7 @@ Las posiciones del 4.° lugar en adelante utilizan un estilo estándar sin medal
 Para agregar una nueva posición al ranking de premios:
 
 1. Haga clic en el botón dorado **"Agregar posición"** en la cabecera.
-2. Se abrirá el **panel de selección de sellos** en la parte lateral.
+2. Se abrirá el **panel de selección de sellos** en la parte de abajo del listado de sellos.
 3. Utilice el **campo de búsqueda** para filtrar los sellos disponibles por nombre.
 4. La lista muestra todos los sellos de la aventura con la siguiente información:
 
@@ -69,7 +69,9 @@ Para agregar una nueva posición al ranking de premios:
 5. Haga clic en el botón **"+"** del sello deseado para asignarlo a la nueva posición.
 6. El sistema creará el premio automáticamente y lo añadirá al final de la lista de posiciones.
 
-<ImagePlaceholder label="Panel lateral de selección de sellos para agregar posición" />
+
+
+![](/images/asignaciondesellosenpremios.png)
 
 ::: info
 La nueva posición siempre se agrega al final de la lista. Si ya hay 3 posiciones configuradas (1.°, 2.° y 3.°), la siguiente será la posición 4.°.
