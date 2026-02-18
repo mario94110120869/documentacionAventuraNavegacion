@@ -186,6 +186,8 @@ Revisa siempre el contenido generado por la IA. Aunque el sistema genera conteni
 
 ![](/images/generarelcontenidodelaactividadconia.png)
 
+![](/images/modalparagestionarelcontenidodelaactividad.png)
+
 ## 7.5 Ver detalle de una actividad
 
 La vista de detalle muestra toda la información de una actividad, incluyendo la pregunta y las respuestas configuradas.
