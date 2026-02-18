@@ -1,7 +1,6 @@
 ---
 title: Sponsors
 ---
-
 # 11. Sponsors (Patrocinadores)
 
 Los sponsors son las empresas u organizaciones que patrocinan la aventura. Cada sponsor puede tener **sellos asociados** que se distribuyen como recompensas durante el juego, y puede estar vinculado a un nivel específico de la aventura. Se accede desde el menú lateral: **Sponsors**.
@@ -11,7 +10,9 @@ Los sponsors son las empresas u organizaciones que patrocinan la aventura. Cada 
 
 ## 11.1 Listado de sponsors
 
-<ImagePlaceholder label="Listado de sponsors con selector de aventura" />
+
+
+![](/images/listadodesponsor.png)
 
 **Selector de aventura:** En la parte superior se encuentra un desplegable para elegir la aventura cuyos sponsors desea consultar. Al ingresar se selecciona automáticamente la primera aventura disponible.
 
@@ -19,15 +20,15 @@ Los sponsors son las empresas u organizaciones que patrocinan la aventura. Cada 
 
 La tabla muestra la siguiente información por cada sponsor:
 
-| Columna | Descripción |
-|---|---|
-| **Logo** | Imagen circular del sponsor. Si no tiene logo asignado, muestra un icono genérico de edificio. |
-| **Nombre** | Nombre del patrocinador. |
-| **Descripción** | Texto descriptivo del sponsor (truncado si es largo). |
-| **Sellos** | Cantidad de sellos del sponsor. Haga clic en el número para navegar directamente al **listado de sellos** del sponsor. |
-| **Preguntas** | Número de preguntas asociadas al sponsor. Al pasar el cursor se muestra un **tooltip** con el detalle de cada pregunta y la actividad a la que pertenece. |
-| **Nivel** | Etiqueta morada con el nombre del nivel asociado, o **"Sin nivel"** en gris si el sponsor no está vinculado a ningún nivel. |
-| **Acciones** | Botones de **editar** y **eliminar**. |
+| Columna         | Descripción                                                                                                                                               |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Logo**        | Imagen circular del sponsor. Si no tiene logo asignado, muestra un icono genérico de edificio.                                                            |
+| **Nombre**      | Nombre del patrocinador.                                                                                                                                  |
+| **Descripción** | Texto descriptivo del sponsor (truncado si es largo).                                                                                                     |
+| **Sellos**      | Cantidad de sellos del sponsor. Haga clic en el número para navegar directamente al **listado de sellos** del sponsor.                                    |
+| **Preguntas**   | Número de preguntas asociadas al sponsor. Al pasar el cursor se muestra un **tooltip** con el detalle de cada pregunta y la actividad a la que pertenece. |
+| **Nivel**       | Etiqueta morada con el nombre del nivel asociado, o **"Sin nivel"** en gris si el sponsor no está vinculado a ningún nivel.                               |
+| **Acciones**    | Botones de **editar** y **eliminar**.                                                                                                                     |
 
 ::: tip
 Haga clic en el número de la columna **Sellos** para acceder rápidamente a la gestión de sellos de ese sponsor.
@@ -41,11 +42,11 @@ Haga clic en **"Nuevo Sponsor"** para acceder al formulario de creación.
 
 ### Campos del formulario
 
-| Campo | Descripción | Requisitos |
-|---|---|---|
-| **Aventura** | Aventura a la que pertenecerá el sponsor. | Obligatorio. Seleccionar del desplegable. |
-| **Nombre** | Nombre del patrocinador. | Obligatorio. Mínimo 2 caracteres. |
-| **Descripción** | Texto descriptivo del sponsor. | Opcional. |
+| Campo           | Descripción                               | Requisitos                                |
+| --------------- | ----------------------------------------- | ----------------------------------------- |
+| **Aventura**    | Aventura a la que pertenecerá el sponsor. | Obligatorio. Seleccionar del desplegable. |
+| **Nombre**      | Nombre del patrocinador.                  | Obligatorio. Mínimo 2 caracteres.         |
+| **Descripción** | Texto descriptivo del sponsor.            | Opcional.                                 |
 
 ::: info Aventura solo en creación
 El campo **Aventura** únicamente está disponible en el modo de creación. Una vez creado el sponsor, **no es posible cambiar la aventura** a la que pertenece, ya que puede tener sellos vinculados a actividades, tesoros o premios de esa aventura. En modo edición, este campo aparecerá deshabilitado con una nota explicativa.
@@ -55,8 +56,8 @@ El campo **Aventura** únicamente está disponible en el modo de creación. Una 
 
 El formulario de edición muestra los mismos campos que el de creación, con las siguientes diferencias:
 
-- El campo **Aventura** aparece **deshabilitado** con una nota explicativa indicando que no se puede modificar.
-- Aparece la sección de **Subida de logo**.
+* El campo **Aventura** aparece **deshabilitado** con una nota explicativa indicando que no se puede modificar.
+* Aparece la sección de **Subida de logo**.
 
 ### Subida de logo
 
@@ -73,12 +74,12 @@ En modo edición se muestra un área dedicada para gestionar el logo del sponsor
 
 **Formatos aceptados:**
 
-| Formato | Extensión |
-|---|---|
-| JPEG | `.jpg`, `.jpeg` |
-| PNG | `.png` |
-| SVG | `.svg` |
-| WebP | `.webp` |
+| Formato | Extensión       |
+| ------- | --------------- |
+| JPEG    | `.jpg`, `.jpeg` |
+| PNG     | `.png`          |
+| SVG     | `.svg`          |
+| WebP    | `.webp`         |
 
 **Tamaño máximo:** 2 MB.
 
