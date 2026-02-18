@@ -35,11 +35,11 @@ El juego se organiza en una jerarquía de elementos. A continuación se describe
 | **Premio**    | Recompensa que el jugador puede ganar al completar aventuras o alcanzar ciertos logros.                                                 |
 | **Ranking**   | Tabla de posiciones que clasifica a los jugadores según su desempeño en las aventuras.                                                  |
 
-<ImagePlaceholder label="Diagrama de jerarquía: Aventura > Nivel > Sección > Actividad > Pregunta" />
-
-## 
 
 
+
+
+![](/images/diagrama.png)
 
 ## 1.4 Requisitos de acceso
 
