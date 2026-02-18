@@ -192,8 +192,6 @@ Revisa siempre el contenido generado por la IA. Aunque el sistema genera conteni
 
 La vista de detalle muestra toda la información de una actividad, incluyendo la pregunta y las respuestas configuradas.
 
-
-
 ![](/images/modaldetalleactividad1.png)
 
 ![](/images/modaldetalleactividad2.png)
@@ -216,7 +214,11 @@ La vista de detalle es de solo lectura. Para modificar la actividad, utiliza el 
 
 Para eliminar una actividad, haz clic en el botón **Eliminar** en el listado de actividades y confirma la acción en el diálogo de confirmación.
 
-<ImagePlaceholder label="Diálogo de confirmación de eliminación de actividad" />
+
+
+![](/images/eliminaractividad.png)
+
+![](/images/modaleliminacionactividad.png)
 
 ::: warning
 **Sellos asociados.** Si la actividad tiene sellos asociados, al eliminarla se desvinculará el sello de la actividad. El sello no se elimina del sistema, pero dejará de estar asociado a esta actividad. Los jugadores que ya hayan obtenido el sello lo conservarán.
