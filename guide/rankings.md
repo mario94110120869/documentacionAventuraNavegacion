@@ -49,7 +49,11 @@ Se muestran **4 tarjetas** resumen con los indicadores clave de la aventura:
 | **Puntuación Máxima** / **Máx. Sellos Confirmados** | Muestra el valor máximo alcanzado según la pestaña activa: puntuación máxima (pestaña Puntuación) o máximo de sellos confirmados (pestaña Sellos). |
 | **Aventura**                                        | Nombre de la aventura seleccionada actualmente.                                                                                                    |
 
-<ImagePlaceholder label="Tarjetas de estadísticas: Total Jugadores, En Línea, Puntuación Máxima, Aventura" />
+
+
+
+
+![](/images/rankingestadistica.png)
 
 ## 14.3 Pestañas del ranking
 
