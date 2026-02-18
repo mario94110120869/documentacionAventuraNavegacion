@@ -1,7 +1,6 @@
 ---
 title: Tesoros
 ---
-
 # 9. Tesoros
 
 Los tesoros son objetos coleccionables que los jugadores pueden encontrar durante la aventura. Cada tesoro otorga puntos y debe tener **al menos un sello de sponsor** asignado. Se accede desde el listado de aventuras, haciendo clic en el botón de **tesoros** de la aventura correspondiente.
@@ -11,7 +10,11 @@ Los tesoros son objetos coleccionables que los jugadores pueden encontrar durant
 
 ## 9.1 Listado de tesoros
 
-<ImagePlaceholder label="Listado de tesoros de una aventura" />
+
+
+![](/images/tesoro.png)
+
+![](/images/listadetesoros.png)
 
 **Encabezado:** Muestra el nombre de la aventura seleccionada, un botón de **volver** y el botón **"Nuevo Tesoro"**.
 
@@ -19,12 +22,12 @@ Los tesoros son objetos coleccionables que los jugadores pueden encontrar durant
 
 La tabla muestra la siguiente información por cada tesoro:
 
-| Columna | Descripcion |
-|---|---|
-| **Nombre** | Nombre del tesoro, acompañado de un icono de regalo. El texto es clicable y permite acceder al detalle. |
-| **Descripcion** | Texto descriptivo del tesoro. |
-| **Pista** | Pista en formato cursiva que guiará al jugador para encontrar el tesoro. |
-| **Acciones** | Botones de **ver**, **editar** y **eliminar**. |
+| Columna         | Descripcion                                                                                             |
+| --------------- | ------------------------------------------------------------------------------------------------------- |
+| **Nombre**      | Nombre del tesoro, acompañado de un icono de regalo. El texto es clicable y permite acceder al detalle. |
+| **Descripcion** | Texto descriptivo del tesoro.                                                                           |
+| **Pista**       | Pista en formato cursiva que guiará al jugador para encontrar el tesoro.                                |
+| **Acciones**    | Botones de **ver**, **editar** y **eliminar**.                                                          |
 
 ::: tip
 La tabla incluye controles de **paginación** en la parte inferior para navegar entre páginas cuando hay muchos tesoros registrados.
@@ -38,12 +41,12 @@ Haga clic en **"Nuevo Tesoro"** para acceder al formulario de creación.
 
 ### Campos del formulario
 
-| Campo | Descripción | Requisitos |
-|---|---|---|
-| **Nombre** | Nombre del tesoro. | Obligatorio. Mínimo 2 caracteres. |
-| **Descripción** | Texto descriptivo del tesoro. | Opcional. |
-| **Pista** | Pista que verán los jugadores para encontrar el tesoro. | Opcional. |
-| **Puntos** | Puntos otorgados al jugador cuando encuentra el tesoro. | Obligatorio. Mínimo 0. Valor por defecto: 20. |
+| Campo           | Descripción                                             | Requisitos                                    |
+| --------------- | ------------------------------------------------------- | --------------------------------------------- |
+| **Nombre**      | Nombre del tesoro.                                      | Obligatorio. Mínimo 2 caracteres.             |
+| **Descripción** | Texto descriptivo del tesoro.                           | Opcional.                                     |
+| **Pista**       | Pista que verán los jugadores para encontrar el tesoro. | Opcional.                                     |
+| **Puntos**      | Puntos otorgados al jugador cuando encuentra el tesoro. | Obligatorio. Mínimo 0. Valor por defecto: 20. |
 
 ### Gestor de sellos de sponsor
 
@@ -71,8 +74,8 @@ El formulario de edición presenta los mismos campos que el de creación, con **
 
 Muestra los sellos actualmente asignados al tesoro y permite:
 
-- **Agregar** nuevos sellos de sponsor al tesoro.
-- **Quitar** sellos previamente asignados.
+* **Agregar** nuevos sellos de sponsor al tesoro.
+* **Quitar** sellos previamente asignados.
 
 ::: danger Recuerde: mínimo 1 sello
 Al editar, el sistema seguirá validando que el tesoro tenga al menos 1 sello asignado. No podrá quitar el último sello sin asignar otro primero.
@@ -82,8 +85,8 @@ Al editar, el sistema seguirá validando que el tesoro tenga al menos 1 sello as
 
 Permite adjuntar **fotografías o evidencias visuales** al tesoro. Los traks son imágenes que enriquecen la experiencia del jugador:
 
-- Haga clic en **"Agregar trak"** para subir una nueva imagen.
-- Cada trak muestra una vista previa con opciones para **ver** o **eliminar**.
+* Haga clic en **"Agregar trak"** para subir una nueva imagen.
+* Cada trak muestra una vista previa con opciones para **ver** o **eliminar**.
 
 ## 9.4 Eliminar un tesoro
 
