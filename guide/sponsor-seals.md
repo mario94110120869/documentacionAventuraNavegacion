@@ -43,7 +43,13 @@ Cada sello puede estar asignado a una entidad del sistema. El estado de asignaci
 
 
 
-<ImagePlaceholder label="Sellos con diferentes estados de asignación: Azul (Actividad), Verde (Tesoro), Ámbar (Premio), Gris (Sin asignar)" />
+
+
+![](/images/selloentesoro.png)
+
+![](/images/selloenpremio.png)
+
+![](/images/sellotesorospon.png)
 
 ::: info
 Un mismo sello solo puede estar asignado a **una entidad a la vez**. Para reasignarlo, primero debe desvincularlo de su entidad actual.
