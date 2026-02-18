@@ -9,8 +9,6 @@ Las actividades son la unidad de contenido jugable dentro de cada sección. Cada
 
 Al acceder a la sección **Actividades**, se muestra el listado de todas las actividades de la sección seleccionada.
 
-
-
 ![](/images/actividadesseccion.png)
 
 ### Columnas del listado
@@ -40,8 +38,6 @@ El listado de actividades muestra únicamente las actividades de la sección act
 ## 7.2 Crear una actividad
 
 Para crear una nueva actividad, haz clic en el botón **Crear actividad** ubicado en la parte superior del listado.
-
-
 
 ![](/images/formulariocrearactividad.png)
 
@@ -77,10 +73,6 @@ La configuración de respuestas depende del tipo de pregunta seleccionado.
 | **Selección múltiple** | El jugador debe seleccionar todas las respuestas correctas de entre varias opciones. | Se configuran múltiples opciones de respuesta y se marcan una o más como correctas. |
 | **Arrastrar y soltar** | El jugador debe arrastrar elementos a sus posiciones correctas.                      | Se configuran los elementos arrastrables y sus posiciones de destino correctas.     |
 
-
-
-
-
 ![](/images/preguntaseleccionunica.png)
 
 ![](/images/seleccionmultiple.png)
@@ -92,19 +84,18 @@ La configuración de respuestas depende del tipo de pregunta seleccionado.
 1. Haz clic en el botón **Crear actividad**.
 2. Completa la **información de la actividad** (nombre, descripción, sección, orden).
 3. Escribe el **texto de la pregunta** y selecciona el **tipo de pregunta**.
-4. Opcionalmente, agrega una **imagen** y una **explicación** para la pregunta.
-5. Configura las **respuestas** según el tipo de pregunta seleccionado:
+4. Configura las **respuestas** según el tipo de pregunta seleccionado:
 
    * Para **selección única**: agrega las opciones y marca la correcta.
    * Para **selección múltiple**: agrega las opciones y marca todas las correctas.
    * Para **arrastrar y soltar**: configura los elementos y sus posiciones.
-6. Haz clic en **Guardar** para crear la actividad.
+5. Haz clic en **Guardar** para crear la actividad.
 
 ::: tip
 Agrega al menos 3 o 4 opciones de respuesta en preguntas de selección para hacer la actividad más desafiante para los jugadores.
 :::
 
-## 7.3 Editar una actividad
+## 6.3 Editar una actividad
 
 Para editar una actividad existente, haz clic en el botón **Editar** en el listado de actividades.
 
@@ -112,9 +103,9 @@ Para editar una actividad existente, haz clic en el botón **Editar** en el list
 
 ![](/images/formularioeditaractividades.png)
 
-El formulario de edición contiene los mismos campos que el de creación, con los valores actuales de la actividad precargados. Puedes modificar cualquier campo, incluida la pregunta y las respuestas.
+El formulario de edición contiene los mismos campos que el de creación, con los valores actuales de la actividad precargados y adicionales 2 campos más que son el de pista y el de sellos. Puedes modificar cualquier campo, incluida la pregunta y las respuestas.
 
-### Gestor de trampas y sellos
+### Gestor de pistas y sellos
 
 Desde la edición de una actividad puedes gestionar los **sellos** asociados:
 
@@ -124,13 +115,17 @@ Desde la edición de una actividad puedes gestionar los **sellos** asociados:
 * **Seleccionar sello**: Elige de entre los sellos disponibles en el sistema.
 * **Quitar sello**: Elimina el sello asociado a la actividad.
 
-<ImagePlaceholder label="Gestor de sellos de una actividad" />
+
+
+![](/images/sellodelaactividad.png)
+
+![](/images/selloactividadsponsor.png)
 
 ::: info
 Los sellos disponibles para asignar son los que han sido creados previamente en el sistema. Si necesitas un sello nuevo, créalo primero antes de asignarlo a la actividad.
 :::
 
-## 7.4 Generación de actividades con IA
+## 6.4 Generación de actividades con IA
 
 La generación con IA permite crear actividades completas (con pregunta y respuestas) de forma automática.
 
