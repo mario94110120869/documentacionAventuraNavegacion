@@ -38,7 +38,9 @@ Haga clic en el número de la columna **Sellos** para acceder rápidamente a la 
 
 Haga clic en **"Nuevo Sponsor"** para acceder al formulario de creación.
 
-<ImagePlaceholder label="Formulario de creación de sponsor" />
+
+
+![](/images/formulariocrearsponsor.png)
 
 ### Campos del formulario
 
@@ -61,7 +63,9 @@ El formulario de edición muestra los mismos campos que el de creación, con las
 
 ### Subida de logo
 
-<ImagePlaceholder label="Sección de subida de logo del sponsor" />
+
+
+![](/images/formularioeditarsponsor.png)
 
 En modo edición se muestra un área dedicada para gestionar el logo del sponsor. Siga estos pasos para asignar o cambiar el logo:
 
