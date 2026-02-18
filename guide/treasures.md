@@ -91,6 +91,22 @@ Permite adjuntar **fotografías o evidencias visuales** al tesoro. Los traks son
 
 * Haga clic en **"Agregar trak"** para subir una nueva imagen.
 * Cada trak muestra una vista previa con opciones para **ver** o **eliminar**.
+::: warning Sellos afectados
+Las tracks (pistas) están orientadas a guiar al jugador en la búsqueda de un objetivo, no necesariamente de un tesoro.
+Estas pueden asignarse tanto a actividades como a tesoros, y su finalidad dependerá de lo que el administrador defina.
+
+Las pistas pueden conducir a distintos resultados, como por ejemplo:
+
+Un objeto físico
+
+Un código QR
+
+Un tesoro
+
+Una trampa u otro elemento de la experiencia
+
+De esta manera, las pistas funcionan como un mecanismo flexible para dirigir la exploración y la toma de decisiones del jugador.
+:::
 
 ## 9.4 Eliminar un tesoro
 
