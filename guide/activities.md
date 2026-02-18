@@ -95,7 +95,7 @@ La configuración de respuestas depende del tipo de pregunta seleccionado.
 Agrega al menos 3 o 4 opciones de respuesta en preguntas de selección para hacer la actividad más desafiante para los jugadores.
 :::
 
-## 6.3 Editar una actividad
+## 7.3 Editar una actividad
 
 Para editar una actividad existente, haz clic en el botón **Editar** en el listado de actividades.
 
@@ -139,7 +139,7 @@ Los sellos asignados a una actividad, independientemente de su disponibilidad, n
 
 ![](/images/formulariopista.png)
 
-## 6.4 Generación de actividades con IA
+## 7.4 Generación de actividades con IA
 
 La generación con IA permite crear actividades completas (con pregunta y respuestas) de forma automática.
 
