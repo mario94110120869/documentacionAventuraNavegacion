@@ -59,7 +59,11 @@ Un mismo sello solo puede estar asignado a **una entidad a la vez**. Para reasig
 
 Haga clic en **"Nuevo Sello"** para acceder al formulario de creación.
 
-<ImagePlaceholder label="Formulario de creación de sello de sponsor" />
+
+
+![](/images/crearsellolimitado.png)
+
+![](/images/crearselloilimitado.png)
 
 ### Campos del formulario
 
