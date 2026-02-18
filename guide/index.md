@@ -37,6 +37,10 @@ El juego se organiza en una jerarquía de elementos. A continuación se describe
 
 <ImagePlaceholder label="Diagrama de jerarquía: Aventura > Nivel > Sección > Actividad > Pregunta" />
 
+## 
+
+
+
 ## 1.4 Requisitos de acceso
 
 Para acceder al Panel de Administración se requiere:
