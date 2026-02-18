@@ -214,8 +214,6 @@ Una vez finalizada la aventura de ranking de sellos:
 * Los premios se distribuyen de forma inmediata a los jugadores que ganaron sellos limitados por lo que se le notifica.
 
 
-  Al finalizar el ranking por sellos, solo se notifica a los jugadores que obtuvieron \*\*sellos limitados\*\*, ya sea a través de \*\*tesoros\*\* o \*\*actividades\*\*.
-
-
-
-  La competencia puede continuar con normalidad y, cada vez que se cierre el ranking, se volverán a otorgar los \*\*sellos ilimitados\*\*, descontando nuevamente su disponibilidad correspondiente.
+  ::: warning
+  El finalizar ranking por sello solo notifica a los jugadores que obtuvieron sellos limitados por cualquiera de las vías tesoros o actividades, por lo que se puede seguir compitiendo y cada ves que se cierre el ranking se volverán a otorgar los sellos ilimitado descontando su disponibilidad .
+  :::
