@@ -106,7 +106,9 @@ Se muestra un **diálogo de advertencia** que lista todos los sellos del sponsor
 
 El diálogo solo presenta el botón **"Entendido"** para cerrar la advertencia.
 
-<ImagePlaceholder label="Diálogo de advertencia: sponsor con sellos vinculados no puede eliminarse" />
+
+
+![](/images/eliminarsponsorconsellosviculadostesoro.png)
 
 ::: danger Eliminación bloqueada
 No es posible eliminar un sponsor que tiene sellos vinculados a actividades, tesoros o premios. Primero debe **desasociar o eliminar** todos los sellos vinculados desde las entidades correspondientes.
