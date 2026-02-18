@@ -41,6 +41,8 @@ Cada sello puede estar asignado a una entidad del sistema. El estado de asignaci
 | **Ambar** | Premio (ranking)                         | El sello está configurado como **premio del ranking**. Se otorgará al jugador que alcance la posición correspondiente al finalizar la aventura. |
 | **Gris**  | Sin asignar                              | El sello **no está vinculado** a ninguna entidad. Está disponible para ser asignado a una actividad, tesoro o premio.                           |
 
+
+
 <ImagePlaceholder label="Sellos con diferentes estados de asignación: Azul (Actividad), Verde (Tesoro), Ámbar (Premio), Gris (Sin asignar)" />
 
 ::: info
