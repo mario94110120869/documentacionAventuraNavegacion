@@ -15,7 +15,9 @@ Cuando una aventura tiene **jugadores registrados**, el sistema aplica restricci
 En las secciones afectadas se muestra un banner ambar con el mensaje: **"Esta aventura tiene X usuario(s) registrado(s). Algunas operaciones de edicion estan restringidas para proteger la estructura del juego."**
 :::
 
-<ImagePlaceholder label="Banner de advertencia de aventura con jugadores registrados" />
+
+
+![](/images/aventurarestrinccion.png)
 
 ### Acciones bloqueadas cuando hay jugadores
 
