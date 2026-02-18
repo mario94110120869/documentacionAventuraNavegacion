@@ -104,7 +104,9 @@ Al hacer clic en la **fila de un jugador** en cualquiera de las pestañas, se ab
 * **Sellos obtenidos**: listado de todos los sellos del jugador con el sponsor correspondiente.
 * **Actividades realizadas**: detalle de cada actividad completada con su puntuación.
 
-<ImagePlaceholder label="Panel lateral de detalle de jugador con progreso, sellos y actividades" />
+
+
+![](/images/panellateralranking.png)
 
 ## 14.5 Actualización en tiempo real
 
