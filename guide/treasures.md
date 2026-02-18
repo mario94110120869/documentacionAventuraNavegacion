@@ -113,7 +113,7 @@ De esta manera, las pistas funcionan como un mecanismo flexible para dirigir la 
 1. Haga clic en el botón de **eliminar** (icono de papelera) en la fila del tesoro.
 2. Se abrirá un diálogo de confirmación.
 
-::: warning Sellos afectados
+::: warning Aclaración sobre las Pistas en (Tesoros y Actividades)
 Si el tesoro tiene **sellos de sponsor asignados**, el diálogo de confirmación mostrará una advertencia listando todos los sellos que **quedarán sin asignar** tras la eliminación. Revise esta lista cuidadosamente antes de confirmar.
 :::
 
