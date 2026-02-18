@@ -12,8 +12,6 @@ Se accede desde el menú lateral: **Banco de Actividades**.
 
 ## 8.1 Vista general
 
-
-
 ![](/images/bancodeactividades.png)
 
 ### Selector de aventura
@@ -52,10 +50,6 @@ La tabla principal muestra todas las actividades de la aventura seleccionada con
 | **Respuestas** | Número de respuestas configuradas para la pregunta.                                                                                      |
 | **Acciones**   | Botones de **navegar** y **eliminar** (ver sección 8.4).                                                                                 |
 
-
-
-
-
 ![](/images/listadeactividades.png)
 
 ::: info
@@ -90,7 +84,11 @@ Para agregar una nueva actividad al sistema:
 
 3. Al confirmar la selección, el sistema le redirigirá automáticamente al **formulario de creación de actividad** dentro de la sección seleccionada.
 
-<ImagePlaceholder label="Diálogo de selección de ubicación: Aventura, Nivel y Sección" />
+
+
+![](/images/bancodeactividadesboton.png)
+
+![](/images/modalbancoactividades.png)
 
 ::: tip
 Cada selector se habilita de forma secuencial: primero debe elegir la aventura para que se carguen sus niveles, y luego elegir el nivel para que se carguen sus secciones.
