@@ -68,8 +68,6 @@ Todo tesoro **debe** tener al menos **1 sello de sponsor asignado**. Si intenta 
 
 El formulario de edición presenta los mismos campos que el de creación, con **dos secciones adicionales**:
 
-
-
 ![](/images/formularioeditartesoro.png)
 
 ![](/images/pistatesoro.png)
@@ -91,9 +89,9 @@ Permite adjuntar **fotografías o evidencias visuales** al tesoro. Los traks son
 
 * Haga clic en **"Agregar trak"** para subir una nueva imagen.
 * Cada trak muestra una vista previa con opciones para **ver** o **eliminar**.
-::: warning Aclaración sobre las Pistas en (Tesoros y Actividades)
-Las tracks (pistas) están orientadas a guiar al jugador en la búsqueda de un objetivo, no necesariamente de un tesoro.
-Estas pueden asignarse tanto a actividades como a tesoros, y su finalidad dependerá de lo que el administrador defina.
+  ::: warning Aclaración sobre las Pistas en (Tesoros y Actividades)
+  Las tracks (pistas) están orientadas a guiar al jugador en la búsqueda de un objetivo, no necesariamente de un tesoro.
+  Estas pueden asignarse tanto a actividades como a tesoros, y su finalidad dependerá de lo que el administrador defina.
 
 Las pistas pueden conducir a distintos resultados, como por ejemplo:
 
@@ -119,4 +117,8 @@ Si el tesoro tiene **sellos de sponsor asignados**, el diálogo de confirmación
 
 3. Confirme la eliminación para proceder.
 
-<ImagePlaceholder label="Diálogo de confirmación de eliminación de tesoro con advertencia de sellos" />
+
+
+![](/images/eliminartesoro.png)
+
+![](/images/modaleliminartesoro.png)
