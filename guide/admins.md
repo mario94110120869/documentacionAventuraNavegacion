@@ -65,7 +65,9 @@ El rol de Editor **no** permite eliminar aventuras, resetear estadisticas ni ges
 
 Haga clic en **"Nuevo Admin"** para acceder al formulario de creacion.
 
-<ImagePlaceholder label="Formulario de creacion de administrador con selector de rol en formato de tarjetas" />
+
+
+![](/images/crearadministrador.png)
 
 ### Campos del formulario
 
@@ -86,7 +88,9 @@ El selector de rol se presenta como **tarjetas seleccionables**, cada una con:
 
 Al hacer clic en una tarjeta, esta se resalta visualmente para indicar la seleccion.
 
-<ImagePlaceholder label="Selector de rol con tarjetas de Super Administrador y Editor" />
+
+
+![](/images/tarjetaderol.png)
 
 **Pasos para crear un administrador:**
 
@@ -103,7 +107,9 @@ Al hacer clic en una tarjeta, esta se resalta visualmente para indicar la selecc
 
 Haga clic en el boton de **editar** (icono de lapiz) en la fila del administrador que desea modificar.
 
-<ImagePlaceholder label="Formulario de edicion de administrador con campo de contrasena opcional" />
+
+
+![](/images/editaradmin.png)
 
 El formulario de edicion muestra los mismos campos que el de creacion con la siguiente diferencia importante:
 
