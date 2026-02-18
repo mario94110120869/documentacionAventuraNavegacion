@@ -39,7 +39,7 @@ El juego se organiza en una jerarquía de elementos. A continuación se describe
 
 
 
-![](/images/diagrama.png)
+![](/images/diagramaaventuramejorado.png)
 
 ## 1.4 Requisitos de acceso
 
