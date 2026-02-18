@@ -143,7 +143,11 @@ Los sellos asignados a una actividad, independientemente de su disponibilidad, n
 
 La generación con IA permite crear actividades completas (con pregunta y respuestas) de forma automática.
 
-<ImagePlaceholder label="Generación de actividades con IA" />
+
+
+![](/images/generaractividadesconia.png)
+
+![](/images/modalgeneracionactividadesia.png)
 
 ### Pasos para generar actividades con IA
 
