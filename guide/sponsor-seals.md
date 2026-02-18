@@ -28,9 +28,7 @@ La tabla muestra la siguiente información por cada sello:
 | **Asignado a**  | Indicador de color que muestra la entidad a la que está vinculado el sello (ver sección 12.2).                                 |
 | **Acciones**    | Botones de **editar** y **eliminar**.                                                                                          |
 
-::: tip
-La tabla incluye controles de **paginación** en la parte inferior para navegar entre páginas cuando el sponsor tiene muchos sellos.
-:::
+
 
 ## 12.2 Estados de asignación
 
