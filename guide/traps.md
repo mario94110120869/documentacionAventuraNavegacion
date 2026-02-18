@@ -10,8 +10,6 @@ Las trampas son elementos que **penalizan** a los jugadores durante la aventura.
 
 ## 10.1 Listado de trampas
 
-
-
 ![](/images/listadotrampa.png)
 
 **Encabezado:** Muestra el nombre de la aventura, un botón de **volver** y el botón **"Nueva Trampa"**.
@@ -50,8 +48,6 @@ El efecto **"Pierde Sello"** es especialmente impactante para el jugador, ya que
 
 Haga clic en **"Nueva Trampa"** para acceder al formulario de creación.
 
-
-
 ![](/images/formulariocreartrampa.png)
 
 ### Campos del formulario
@@ -79,7 +75,9 @@ El formulario adapta sus campos en función del tipo de efecto seleccionado:
 * El campo de penalización numérica **desaparece** (no es necesario).
 * Se muestra un recuadro rojo con el mensaje: *"El jugador perderá un sello de patrocinador aleatorio."*
 
-<ImagePlaceholder label="Comportamiento dinámico del formulario: Pierde Puntos vs Pierde Sello" />
+
+
+![](/images/penalizacionporsello.png)
 
 ::: info
 La casilla **"Trampa activa"** permite desactivar temporalmente una trampa sin eliminarla. Las trampas inactivas permanecen en el sistema pero no afectan a los jugadores durante el juego.
